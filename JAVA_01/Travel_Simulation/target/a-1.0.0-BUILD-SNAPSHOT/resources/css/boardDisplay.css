@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+	.content {
+			padding: 30px 15%;
+	}
+	@media (max-width: 760px) {
+		.content {
+			padding: 30px 10%;
+		}
+	} 	
+	@media (max-width: 450px) {
+		.content {
+			padding: 30px 5%;
+		}
+	}  

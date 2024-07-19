@@ -1,0 +1,110 @@
+Time,LogLocation,Message,
+2022-07-29 11:47:11-257,LoadData_LOT,'D:\VisionProgram\Selected_LOT.txt' 파일을 찾을 수 없습니다.
+2022-07-29 11:47:11-257,LoadData_Order,'D:\VisionProgram\Selected_Order.txt' 파일을 찾을 수 없습니다.
+2022-07-29 11:47:11-257,LoadData_Type,'D:\VisionProgram\Selected_Type.txt' 파일을 찾을 수 없습니다.
+2022-07-29 11:48:23-325,LoadData_LOT,LoadData_LOT
+2022-07-29 11:48:23-325,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-07-29 11:48:23-325,LoadData_Type,LoadData_Type
+2022-07-29 11:48:23-420,LoadData_LOT,LoadData_LOT
+2022-07-29 11:48:23-420,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-07-29 11:48:23-420,LoadData_Type,LoadData_Type
+2022-07-29 11:48:23-441,LoadData_LOT,LoadData_LOT
+2022-07-29 11:48:23-441,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-07-29 11:48:23-441,LoadData_Type,LoadData_Type
+2022-07-29 13:13:56-685,LoadData_LOT,LoadData_LOT
+2022-07-29 13:13:56-685,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-07-29 13:13:56-685,LoadData_Type,LoadData_Type
+2022-07-29 13:13:56-734,LoadData_LOT,LoadData_LOT
+2022-07-29 13:13:56-734,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-07-29 13:13:56-734,LoadData_Type,LoadData_Type
+2022-07-29 13:13:56-753,LoadData_LOT,LoadData_LOT
+2022-07-29 13:13:56-753,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-07-29 13:13:56-753,LoadData_Type,LoadData_Type
+2022-07-29 13:13:58-906,LoadData_LOT,LoadData_LOT
+2022-07-29 13:13:58-906,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-07-29 13:13:58-906,LoadData_Type,LoadData_Type
+2022-07-29 13:13:58-906,차종선택,NX4
+2022-07-29 13:13:56-753,bt_Type_Click,bt_Type_Click
+2022-07-29 13:14:12-544,LoadData_LOT,LoadData_LOT
+2022-07-29 13:14:12-544,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-07-29 13:14:12-544,LoadData_Type,LoadData_Type
+2022-07-29 13:14:12-544,차종선택,BC3
+2022-07-29 13:13:56-753,bt_Type_Click,bt_Type_Click
+2022-07-29 13:13:56-753,bt_Login_Click,bt_Login_Click
+2022-07-29 13:13:56-753,LoginSuccess,김아무개으로 로그인 되었습니다.
+2022-07-29 13:14:30-97,LoadData_LOT,LoadData_LOT
+2022-07-29 13:14:30-97,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-07-29 13:14:30-97,LoadData_Type,LoadData_Type
+2022-07-29 13:13:56-753,bt_Order_Click,bt_Order_Click
+2022-07-29 13:14:32-154,LoadData_LOT,LoadData_LOT
+2022-07-29 13:14:32-154,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-07-29 13:14:32-154,LoadData_Type,LoadData_Type
+2022-07-29 13:14:32-184,LoadData_LOT,LoadData_LOT
+2022-07-29 13:14:32-184,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-07-29 13:14:32-184,LoadData_Type,LoadData_Type
+2022-07-29 13:14:32-207,LoadData_LOT,LoadData_LOT
+2022-07-29 13:14:32-207,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-07-29 13:14:32-207,LoadData_Type,LoadData_Type
+2022-07-29 13:13:56-753,bt_LOT_Click,bt_LOT_Click
+2022-07-29 13:14:38-721,LoadData_LOT,LoadData_LOT
+2022-07-29 13:14:38-721,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-07-29 13:14:38-721,LoadData_Type,LoadData_Type
+2022-07-29 13:14:38-721,LoadData_LOT,LoadData_LOT
+2022-07-29 13:14:38-721,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-07-29 13:14:38-721,LoadData_Type,LoadData_Type
+2022-07-29 13:14:38-721,FormWork_Load,FormWork_Load
+2022-07-29 13:14:38-721,button_EXIT_Click,button_EXIT_Click
+2022-07-29 13:13:56-753,bt_Work_Click,bt_Work_Click
+2022-07-29 13:13:56-753,bt_TypeSet_Click,bt_TypeSet_Click
+2022-07-29 13:14:51-158,LoadData_LOT,LoadData_LOT
+2022-07-29 13:14:51-158,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-07-29 13:14:51-158,LoadData_Type,LoadData_Type
+2022-07-29 13:13:56-753,bt_TypeSet_Click,bt_TypeSet_Click
+2022-07-29 13:13:56-753,bt_LoginSet_Click,bt_LoginSet_Click
+2022-07-29 13:13:56-753,bt_Login_Click,bt_Login_Click
+2022-07-29 13:21:41-743,LoadData_LOT,LoadData_LOT
+2022-07-29 13:21:41-743,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-07-29 13:21:41-743,LoadData_Type,LoadData_Type
+2022-07-29 13:21:41-801,LoadData_LOT,LoadData_LOT
+2022-07-29 13:21:41-801,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-07-29 13:21:41-801,LoadData_Type,LoadData_Type
+2022-07-29 13:21:41-834,LoadData_LOT,LoadData_LOT
+2022-07-29 13:21:41-834,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-07-29 13:21:41-834,LoadData_Type,LoadData_Type
+2022-07-29 13:21:41-834,bt_Login_Click,bt_Login_Click
+2022-07-29 13:21:41-834,bt_LoginSet_Click,bt_LoginSet_Click
+2022-07-29 13:21:56-221,LoadData_LOT,LoadData_LOT
+2022-07-29 13:21:56-221,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-07-29 13:21:56-221,LoadData_Type,LoadData_Type
+2022-07-29 13:21:41-834,bt_LoginSet_Click,bt_LoginSet_Click
+2022-07-29 13:21:41-834,bt_TypeSet_Click,bt_TypeSet_Click
+2022-07-29 13:22:12-374,LoadData_LOT,LoadData_LOT
+2022-07-29 13:22:12-374,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-07-29 13:22:12-374,LoadData_Type,LoadData_Type
+2022-07-29 13:21:41-834,bt_LoginSet_Click,bt_LoginSet_Click
+2022-07-29 13:22:14-666,LoadData_LOT,LoadData_LOT
+2022-07-29 13:22:14-666,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-07-29 13:22:14-666,LoadData_Type,LoadData_Type
+2022-07-29 13:22:14-666,차종선택,NX4
+2022-07-29 13:21:41-834,bt_Type_Click,bt_Type_Click
+2022-07-29 13:22:30-470,LoadData_LOT,LoadData_LOT
+2022-07-29 13:22:30-470,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-07-29 13:22:30-470,LoadData_Type,LoadData_Type
+2022-07-29 13:21:41-834,bt_OrderSet_Click,bt_OrderSet_Click
+2022-07-29 13:22:56-191,LoadData_LOT,LoadData_LOT
+2022-07-29 13:22:56-191,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-07-29 13:22:56-191,LoadData_Type,LoadData_Type
+2022-07-29 13:21:41-834,bt_TypeSet_Click,bt_TypeSet_Click
+2022-07-29 13:23:23-247,LoadData_LOT,LoadData_LOT
+2022-07-29 13:23:23-247,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-07-29 13:23:23-247,LoadData_Type,LoadData_Type
+2022-07-29 13:21:41-834,bt_OrderSet_Click,bt_OrderSet_Click
+2022-07-29 13:24:22-554,LoadData_LOT,LoadData_LOT
+2022-07-29 13:24:22-554,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-07-29 13:24:22-554,LoadData_Type,LoadData_Type
+2022-07-29 13:24:22-554,LoadData_LOT,LoadData_LOT
+2022-07-29 13:24:22-554,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-07-29 13:24:22-554,LoadData_Type,LoadData_Type
+2022-07-29 13:24:22-554,FormWork_Load,FormWork_Load
+2022-07-29 13:24:22-554,button_EXIT_Click,button_EXIT_Click
+2022-07-29 13:21:41-834,bt_Work_Click,bt_Work_Click

@@ -1,0 +1,216 @@
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.exe.config
+C:\BINGGRAE\BINGGRAE\obj\x64\Release\ResolveAssemblyReference.cache
+C:\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.FactoryReset.resources
+C:\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.Login.resources
+C:\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.MainForm.resources
+C:\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.Properties.Resources.resources
+C:\BINGGRAE\BINGGRAE\obj\x64\Release\GenerateResource.read.1.tlog
+C:\BINGGRAE\BINGGRAE\obj\x64\Release\GenerateResource.write.1.tlog
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.exe
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.pdb
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.Blob.dll
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.CalibFix.dll
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.Controls.dll
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.Core.dll
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.CorePlus.dll
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.Display.Controls.dll
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.dll
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.ImageFile.dll
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.ImageProcessing.dll
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.PMAlign.dll
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.dll
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.ToolGroup.dll
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro3D.Core.dll
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.dll
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.FG8100.dll
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.FG8100L.dll
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.xml
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.Blob.xml
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.CalibFix.xml
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.Core.xml
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.CorePlus.xml
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.Display.Controls.xml
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.ImageFile.xml
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.ImageProcessing.xml
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.PMAlign.xml
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.xml
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.ToolGroup.xml
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro3D.Core.xml
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.xml
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.FG8100.xml
+C:\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.FG8100L.xml
+C:\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.exe
+C:\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.pdb
+C:\Users\ENEX\Desktop\Koda Inspection Program\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.exe.config
+C:\Users\ENEX\Desktop\Koda Inspection Program\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.exe
+C:\Users\ENEX\Desktop\Koda Inspection Program\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.pdb
+C:\Users\ENEX\Desktop\Koda Inspection Program\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.exe
+C:\Users\ENEX\Desktop\Koda Inspection Program\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.pdb
+C:\Users\ENEX\Desktop\Koda Inspection Program\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.FactoryReset.resources
+C:\Users\ENEX\Desktop\Koda Inspection Program\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.Login.resources
+C:\Users\ENEX\Desktop\Koda Inspection Program\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.MainForm.resources
+C:\Users\ENEX\Desktop\Koda Inspection Program\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.Properties.Resources.resources
+C:\Users\ENEX\Desktop\Koda Inspection Program\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Koda Inspection Program 0916\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.exe.config
+C:\Users\Administrator\Desktop\Koda Inspection Program 0916\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.exe
+C:\Users\Administrator\Desktop\Koda Inspection Program 0916\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.pdb
+C:\Users\ENEX\Desktop\Koda Inspection Program 0915\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.exe.config
+C:\Users\ENEX\Desktop\Koda Inspection Program 0915\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.exe
+C:\Users\ENEX\Desktop\Koda Inspection Program 0915\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.pdb
+C:\Users\ENEX\Desktop\Koda Inspection Program 0915\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.exe
+C:\Users\ENEX\Desktop\Koda Inspection Program 0915\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.pdb
+C:\Users\ENEX\Desktop\Koda Inspection Program 0915\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.csprojResolveAssemblyReference.cache
+C:\Users\ENEX\Desktop\Koda Inspection Program 0915\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.FactoryReset.resources
+C:\Users\ENEX\Desktop\Koda Inspection Program 0915\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.Login.resources
+C:\Users\ENEX\Desktop\Koda Inspection Program 0915\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.MainForm.resources
+C:\Users\ENEX\Desktop\Koda Inspection Program 0915\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.Properties.Resources.resources
+C:\Users\ENEX\Desktop\Koda Inspection Program 0915\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.csproj.GenerateResource.Cache
+D:\Koda Inspection Program 0915\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.exe.config
+D:\Koda Inspection Program 0915\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.exe
+D:\Koda Inspection Program 0915\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.pdb
+D:\Koda Inspection Program 0915\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.exe
+D:\Koda Inspection Program 0915\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.pdb
+D:\Koda Inspection Program 0915\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.csprojResolveAssemblyReference.cache
+D:\Koda Inspection Program 0915\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.FactoryReset.resources
+D:\Koda Inspection Program 0915\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.Login.resources
+D:\Koda Inspection Program 0915\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.MainForm.resources
+D:\Koda Inspection Program 0915\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.Properties.Resources.resources
+D:\Koda Inspection Program 0915\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.csproj.GenerateResource.Cache
+D:\Koda Inspection Program 0916\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.exe.config
+D:\Koda Inspection Program 0916\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.exe
+D:\Koda Inspection Program 0916\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.pdb
+D:\Koda Inspection Program 0916\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.exe
+D:\Koda Inspection Program 0916\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.pdb
+D:\Koda Inspection Program 0916\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.FactoryReset.resources
+D:\Koda Inspection Program 0916\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.Login.resources
+D:\Koda Inspection Program 0916\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.MainForm.resources
+D:\Koda Inspection Program 0916\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.Properties.Resources.resources
+D:\Koda Inspection Program 0916\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.csproj.GenerateResource.Cache
+D:\Koda Inspection Program 0916\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.csprojResolveAssemblyReference.cache
+D:\Koda Inspection Program 0917\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.exe.config
+D:\Koda Inspection Program 0917\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.exe
+D:\Koda Inspection Program 0917\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.pdb
+D:\Koda Inspection Program 0917\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.exe
+D:\Koda Inspection Program 0917\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.pdb
+D:\Koda Inspection Program 0917\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.csprojResolveAssemblyReference.cache
+D:\Koda Inspection Program 0917\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.FactoryReset.resources
+D:\Koda Inspection Program 0917\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.Login.resources
+D:\Koda Inspection Program 0917\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.MainForm.resources
+D:\Koda Inspection Program 0917\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.Properties.Resources.resources
+D:\Koda Inspection Program 0917\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.csproj.GenerateResource.Cache
+D:\Koda Inspection Program 1124\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.exe.config
+D:\Koda Inspection Program 1124\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.exe
+D:\Koda Inspection Program 1124\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.pdb
+D:\Koda Inspection Program 1124\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.exe
+D:\Koda Inspection Program 1124\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.pdb
+D:\Koda Inspection Program 1124\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.csprojResolveAssemblyReference.cache
+D:\Koda Inspection Program 1124\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.FactoryReset.resources
+D:\Koda Inspection Program 1124\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.Login.resources
+D:\Koda Inspection Program 1124\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.MainForm.resources
+D:\Koda Inspection Program 1124\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.Properties.Resources.resources
+D:\Koda Inspection Program 1124\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Koda Inspection Program 1124\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.exe.config
+C:\Users\Administrator\Desktop\Koda Inspection Program 1124\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.exe
+C:\Users\Administrator\Desktop\Koda Inspection Program 1124\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.pdb
+C:\Users\Administrator\Desktop\Koda Inspection Program 1124\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.exe
+C:\Users\Administrator\Desktop\Koda Inspection Program 1124\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.pdb
+C:\Users\Administrator\Desktop\Koda Inspection Program 1124\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Koda Inspection Program 1124\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.FactoryReset.resources
+C:\Users\Administrator\Desktop\Koda Inspection Program 1124\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.Login.resources
+C:\Users\Administrator\Desktop\Koda Inspection Program 1124\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.MainForm.resources
+C:\Users\Administrator\Desktop\Koda Inspection Program 1124\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Koda Inspection Program 1124\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.csproj.GenerateResource.Cache
+D:\Koda Inspection Program 1210\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.exe.config
+D:\Koda Inspection Program 1210\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.exe
+D:\Koda Inspection Program 1210\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.pdb
+D:\Koda Inspection Program 1210\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.exe
+D:\Koda Inspection Program 1210\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.pdb
+D:\Koda Inspection Program 1210\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.csprojResolveAssemblyReference.cache
+D:\Koda Inspection Program 1210\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.FactoryReset.resources
+D:\Koda Inspection Program 1210\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.Login.resources
+D:\Koda Inspection Program 1210\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.MainForm.resources
+D:\Koda Inspection Program 1210\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.Properties.Resources.resources
+D:\Koda Inspection Program 1210\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.csproj.GenerateResource.Cache
+D:\Koda Inspection Program 1210_\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.exe.config
+D:\Koda Inspection Program 1210_\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.exe
+D:\Koda Inspection Program 1210_\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.pdb
+D:\Koda Inspection Program 1210_\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.exe
+D:\Koda Inspection Program 1210_\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.pdb
+D:\Koda Inspection Program 1210_\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.csprojResolveAssemblyReference.cache
+D:\Koda Inspection Program 1210_\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.FactoryReset.resources
+D:\Koda Inspection Program 1210_\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.Login.resources
+D:\Koda Inspection Program 1210_\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.MainForm.resources
+D:\Koda Inspection Program 1210_\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.Properties.Resources.resources
+D:\Koda Inspection Program 1210_\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.csproj.GenerateResource.Cache
+D:\Koda Inspection Program 1210_\BINGGRAE\BINGGRAE\obj\x64\Release\Interop.CognexCaliper.dll
+D:\Koda Inspection Program 1210_\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.csproj.ResolveComReference.cache
+E:\Koda Inspection Program 1210_2\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.exe.config
+E:\Koda Inspection Program 1210_2\BINGGRAE\BINGGRAE\obj\x64\Release\Interop.CognexCaliper.dll
+E:\Koda Inspection Program 1210_2\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.csproj.ResolveComReference.cache
+E:\Koda Inspection Program 1210_2\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.exe
+E:\Koda Inspection Program 1210_2\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.pdb
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.FactoryReset.resources
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.Login.resources
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.MainForm.resources
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.Properties.Resources.resources
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.csproj.GenerateResource.Cache
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.exe.config
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.exe
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\BINGGRAE.pdb
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.InSight.Controls.Display.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.Blob.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.CalibFix.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.Caliper.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.Controls.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.Core.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.CorePlus.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.Display.Controls.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.ImageFile.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.PMAlign.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.QuickBuild.Controls.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.ToolGroup.Controls.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.ToolGroup.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.InSight.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.Interop.Core.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro3D.Graphic.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro3D.Core.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.FGGigE.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro3D.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\stdole.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.Inspection.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.Inspection.Controls.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.Database.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.InSight.Controls.Display.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.Blob.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.CalibFix.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.Caliper.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.Core.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.CorePlus.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.Display.Controls.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.ImageFile.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.PMAlign.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.ToolGroup.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.InSight.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro3D.Graphic.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro3D.Core.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.FGGigE.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro3D.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.Inspection.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\Cognex.VisionPro.Database.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.exe
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.pdb
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\obj\x64\Release\BINGGRAE.csprojResolveAssemblyReference.cache

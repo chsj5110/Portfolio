@@ -1,0 +1,496 @@
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\IVSSYSTEM.exe.config
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe.config
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csprojResolveAssemblyReference.cache
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.FactoryReset.resources
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Login.resources
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.MainForm.resources
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Properties.Resources.resources
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.GenerateResource.Cache
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.pdb
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.InSight.Controls.Display.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Controls.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Controls.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.Controls.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.InSight.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Interop.Core.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\stdole.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.Controls.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.InSight.Controls.Display.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.InSight.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.pdb
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe.config
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.pdb
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.InSight.Controls.Display.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Controls.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Controls.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.Controls.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.InSight.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Interop.Core.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\stdole.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.Controls.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.InSight.Controls.Display.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.InSight.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.MainForm.resources
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Properties.Resources.resources
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.GenerateResource.Cache
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.pdb
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe.config
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.pdb
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Controls.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Interop.Core.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\stdole.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.MainForm.resources
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Properties.Resources.resources
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.pdb
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe.config
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.pdb
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Controls.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Interop.Core.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\stdole.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.MainForm.resources
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Properties.Resources.resources
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.GenerateResource.Cache
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.pdb
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe.config
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.pdb
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Controls.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Interop.Core.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\stdole.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.MainForm.resources
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Properties.Resources.resources
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.GenerateResource.Cache
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.pdb
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe.config
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.pdb
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Controls.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Controls.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.Controls.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Interop.Core.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\stdole.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.Controls.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.dll
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.xml
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.MainForm.resources
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Properties.Resources.resources
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.GenerateResource.Cache
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe
+C:\Users\chsj5\Desktop\210714 고려특수선재 USB카메라로 변경할것ori\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.pdb
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe.config
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.pdb
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.pdb
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.dll
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.dll
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.dll
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Controls.dll
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.dll
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.dll
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.dll
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.dll
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.dll
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.dll
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Controls.dll
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.dll
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.Controls.dll
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.dll
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Interop.Core.dll
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.dll
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.dll
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.dll
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.dll
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\stdole.dll
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.dll
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.dll
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.dll
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.dll
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.Controls.dll
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.dll
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.xml
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.xml
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.xml
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.xml
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.xml
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.xml
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.xml
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.xml
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.xml
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.xml
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.xml
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.xml
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.xml
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.xml
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.xml
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.xml
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.xml
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.xml
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.xml
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.xml
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.MainForm.resources
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Properties.Resources.resources
+C:\Users\chsj5\Desktop\210724고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.GenerateResource.Cache
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe.config
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.pdb
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.pdb
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.dll
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.dll
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.dll
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Controls.dll
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.dll
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.dll
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.dll
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.dll
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.dll
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.dll
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Controls.dll
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.dll
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.Controls.dll
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.dll
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Interop.Core.dll
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.dll
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.dll
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.dll
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.dll
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\stdole.dll
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.dll
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.dll
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.dll
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.dll
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.Controls.dll
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.dll
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.xml
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.xml
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.xml
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.xml
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.xml
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.xml
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.xml
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.xml
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.xml
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.xml
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.xml
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.xml
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.xml
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.xml
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.xml
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.xml
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.xml
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.xml
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.xml
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.xml
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.MainForm.resources
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Properties.Resources.resources
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.GenerateResource.Cache
+C:\Users\chsj5\Desktop\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe.config
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.pdb
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.dll
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.dll
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.dll
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Controls.dll
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.dll
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.dll
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.dll
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.dll
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.dll
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.dll
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.dll
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.dll
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Interop.Core.dll
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.dll
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.dll
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.dll
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.dll
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\stdole.dll
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.dll
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.xml
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.xml
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.xml
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.xml
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.xml
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.xml
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.xml
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.xml
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.xml
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.xml
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.xml
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.xml
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.xml
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.xml
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.xml
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.xml
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe.config
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.MainForm.resources
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Properties.Resources.resources
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.CopyComplete
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe
+C:\Users\Administrator\Desktop\210824고려특수선재_압착와이어표면검사\210824고려특수선재_압착와이어표면검사\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.pdb

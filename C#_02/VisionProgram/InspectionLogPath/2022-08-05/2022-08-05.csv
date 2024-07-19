@@ -1,0 +1,797 @@
+Time,LogLocation,Message,
+2022-08-05 9:42:58-733,LoadData_LOT,'D:\VisionProgram\Selected_LOT.txt' 파일을 찾을 수 없습니다.
+2022-08-05 9:42:58-733,LoadData_Order,'D:\VisionProgram\Selected_Order.txt' 파일을 찾을 수 없습니다.
+2022-08-05 9:42:58-733,LoadData_Type,'D:\VisionProgram\Selected_Type.txt' 파일을 찾을 수 없습니다.
+2022-08-05 9:45:34-964,LoadData_LOT,'D:\VisionProgram\Selected_LOT.txt' 파일을 찾을 수 없습니다.
+2022-08-05 9:45:34-964,LoadData_Order,'D:\VisionProgram\Selected_Order.txt' 파일을 찾을 수 없습니다.
+2022-08-05 9:45:34-964,LoadData_Type,'D:\VisionProgram\Selected_Type.txt' 파일을 찾을 수 없습니다.
+2022-08-05 9:46:4-731,LoadData_LOT,'D:\VisionProgram\Selected_LOT.txt' 파일을 찾을 수 없습니다.
+2022-08-05 9:46:4-731,LoadData_Order,'D:\VisionProgram\Selected_Order.txt' 파일을 찾을 수 없습니다.
+2022-08-05 9:46:4-731,LoadData_Type,'D:\VisionProgram\Selected_Type.txt' 파일을 찾을 수 없습니다.
+2022-08-05 9:46:4-802,LoadData_LOT,'D:\VisionProgram\Selected_LOT.txt' 파일을 찾을 수 없습니다.
+2022-08-05 9:46:4-802,LoadData_Order,'D:\VisionProgram\Selected_Order.txt' 파일을 찾을 수 없습니다.
+2022-08-05 9:46:4-802,LoadData_Type,'D:\VisionProgram\Selected_Type.txt' 파일을 찾을 수 없습니다.
+2022-08-05 9:47:13-424,LoadData_LOT,LoadData_LOT
+2022-08-05 9:47:13-424,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 9:47:13-424,LoadData_Type,LoadData_Type
+2022-08-05 9:47:13-479,LoadData_LOT,LoadData_LOT
+2022-08-05 9:47:13-479,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 9:47:13-479,LoadData_Type,LoadData_Type
+2022-08-05 9:47:13-500,LoadData_LOT,LoadData_LOT
+2022-08-05 9:47:13-500,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 9:47:13-500,LoadData_Type,LoadData_Type
+2022-08-05 9:47:41-867,LoadData_LOT,LoadData_LOT
+2022-08-05 9:47:41-867,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 9:47:41-867,LoadData_Type,LoadData_Type
+2022-08-05 9:47:41-917,LoadData_LOT,LoadData_LOT
+2022-08-05 9:47:41-917,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 9:47:41-917,LoadData_Type,LoadData_Type
+2022-08-05 9:47:41-937,LoadData_LOT,LoadData_LOT
+2022-08-05 9:47:41-937,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 9:47:41-937,LoadData_Type,LoadData_Type
+2022-08-05 9:47:45-103,LoadData_LOT,LoadData_LOT
+2022-08-05 9:47:45-103,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 9:47:45-103,LoadData_Type,LoadData_Type
+2022-08-05 9:47:55-822,LoadData_LOT,LoadData_LOT
+2022-08-05 9:47:55-822,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 9:47:55-822,LoadData_Type,LoadData_Type
+2022-08-05 9:47:55-873,LoadData_LOT,LoadData_LOT
+2022-08-05 9:47:55-873,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 9:47:55-873,LoadData_Type,LoadData_Type
+2022-08-05 9:47:55-891,LoadData_LOT,LoadData_LOT
+2022-08-05 9:47:55-891,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 9:47:55-891,LoadData_Type,LoadData_Type
+2022-08-05 9:48:0-833,LoadData_LOT,LoadData_LOT
+2022-08-05 9:48:0-833,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 9:48:0-833,LoadData_Type,LoadData_Type
+2022-08-05 9:47:55-891,bt_OrderSet_Click,bt_OrderSet_Click
+2022-08-05 13:49:13-493,LoadData_LOT,LoadData_LOT
+2022-08-05 13:49:13-493,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 13:49:13-493,LoadData_Type,LoadData_Type
+2022-08-05 13:49:13-565,LoadData_LOT,LoadData_LOT
+2022-08-05 13:49:13-565,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 13:49:13-565,LoadData_Type,LoadData_Type
+2022-08-05 13:49:13-583,LoadData_LOT,LoadData_LOT
+2022-08-05 13:49:13-583,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 13:49:13-583,LoadData_Type,LoadData_Type
+2022-08-05 13:49:18-767,LoadData_LOT,LoadData_LOT
+2022-08-05 13:49:18-767,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 13:49:18-767,LoadData_Type,LoadData_Type
+2022-08-05 13:49:36-936,LoadData_LOT,LoadData_LOT
+2022-08-05 13:49:36-936,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 13:49:36-936,LoadData_Type,LoadData_Type
+2022-08-05 13:49:36-986,LoadData_LOT,LoadData_LOT
+2022-08-05 13:49:36-986,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 13:49:36-986,LoadData_Type,LoadData_Type
+2022-08-05 13:49:37-3,LoadData_LOT,LoadData_LOT
+2022-08-05 13:49:37-3,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 13:49:37-3,LoadData_Type,LoadData_Type
+2022-08-05 13:49:41-530,LoadData_LOT,LoadData_LOT
+2022-08-05 13:49:41-530,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 13:49:41-530,LoadData_Type,LoadData_Type
+2022-08-05 13:49:41-579,LoadData_LOT,LoadData_LOT
+2022-08-05 13:49:41-579,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 13:49:41-579,LoadData_Type,LoadData_Type
+2022-08-05 13:49:41-597,LoadData_LOT,LoadData_LOT
+2022-08-05 13:49:41-597,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 13:49:41-597,LoadData_Type,LoadData_Type
+2022-08-05 13:49:44-680,LoadData_LOT,LoadData_LOT
+2022-08-05 13:49:44-680,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 13:49:44-680,LoadData_Type,LoadData_Type
+2022-08-05 13:49:41-597,bt_OrderSet_Click,bt_OrderSet_Click
+2022-08-05 15:22:42-160,LoadData_LOT,LoadData_LOT
+2022-08-05 15:22:42-160,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:22:42-160,LoadData_Type,LoadData_Type
+2022-08-05 15:22:42-243,LoadData_LOT,LoadData_LOT
+2022-08-05 15:22:42-243,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:22:42-243,LoadData_Type,LoadData_Type
+2022-08-05 15:22:42-264,LoadData_LOT,LoadData_LOT
+2022-08-05 15:22:42-264,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:22:42-264,LoadData_Type,LoadData_Type
+2022-08-05 15:22:45-288,LoadData_LOT,LoadData_LOT
+2022-08-05 15:22:45-288,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:22:45-288,LoadData_Type,LoadData_Type
+2022-08-05 15:22:45-329,LoadData_LOT,LoadData_LOT
+2022-08-05 15:22:45-329,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:22:45-329,LoadData_Type,LoadData_Type
+2022-08-05 15:22:45-352,LoadData_LOT,LoadData_LOT
+2022-08-05 15:22:45-352,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:22:45-352,LoadData_Type,LoadData_Type
+2022-08-05 15:22:42-264,bt_LOT_Click,bt_LOT_Click
+2022-08-05 15:22:56-388,LoadData_LOT,LoadData_LOT
+2022-08-05 15:22:56-388,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:22:56-388,LoadData_Type,LoadData_Type
+2022-08-05 15:22:42-264,bt_TypeSet_Click,bt_TypeSet_Click
+2022-08-05 15:23:2-697,LoadData_LOT,LoadData_LOT
+2022-08-05 15:23:2-697,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:23:2-697,LoadData_Type,LoadData_Type
+2022-08-05 15:23:2-755,LoadData_LOT,LoadData_LOT
+2022-08-05 15:23:2-755,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:23:2-755,LoadData_Type,LoadData_Type
+2022-08-05 15:23:2-779,LoadData_LOT,LoadData_LOT
+2022-08-05 15:23:2-779,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:23:2-779,LoadData_Type,LoadData_Type
+2022-08-05 15:22:42-264,bt_LOT_Click,bt_LOT_Click
+2022-08-05 15:23:13-46,LoadData_LOT,LoadData_LOT
+2022-08-05 15:23:13-46,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:23:13-46,LoadData_Type,LoadData_Type
+2022-08-05 15:23:13-69,LoadData_LOT,LoadData_LOT
+2022-08-05 15:23:13-69,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:23:13-69,LoadData_Type,LoadData_Type
+2022-08-05 15:23:13-92,LoadData_LOT,LoadData_LOT
+2022-08-05 15:23:13-92,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:23:13-92,LoadData_Type,LoadData_Type
+2022-08-05 15:22:42-264,bt_LOT_Click,bt_LOT_Click
+2022-08-05 15:23:19-179,LoadData_LOT,LoadData_LOT
+2022-08-05 15:23:19-179,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:23:19-179,LoadData_Type,LoadData_Type
+2022-08-05 15:22:42-264,bt_OrderSet_Click,bt_OrderSet_Click
+2022-08-05 15:23:27-739,LoadData_LOT,LoadData_LOT
+2022-08-05 15:23:27-739,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:23:27-739,LoadData_Type,LoadData_Type
+2022-08-05 15:22:42-264,bt_TypeSet_Click,bt_TypeSet_Click
+2022-08-05 15:23:29-663,LoadData_LOT,LoadData_LOT
+2022-08-05 15:23:29-663,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:23:29-663,LoadData_Type,LoadData_Type
+2022-08-05 15:23:29-663,LoadData_LOT,LoadData_LOT
+2022-08-05 15:23:29-663,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:23:29-663,LoadData_Type,LoadData_Type
+2022-08-05 15:23:29-663,FormWork_Load,FormWork_Load
+2022-08-05 15:23:29-663,button_EXIT_Click,button_EXIT_Click
+2022-08-05 15:22:42-264,bt_Work_Click,bt_Work_Click
+2022-08-05 15:26:28-850,LoadData_LOT,LoadData_LOT
+2022-08-05 15:26:28-850,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:26:28-850,LoadData_Type,LoadData_Type
+2022-08-05 15:26:28-936,LoadData_LOT,LoadData_LOT
+2022-08-05 15:26:28-936,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:26:28-936,LoadData_Type,LoadData_Type
+2022-08-05 15:26:28-972,LoadData_LOT,LoadData_LOT
+2022-08-05 15:26:28-972,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:26:28-972,LoadData_Type,LoadData_Type
+2022-08-05 15:27:34-53,LoadData_LOT,LoadData_LOT
+2022-08-05 15:27:34-53,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:27:34-53,LoadData_Type,LoadData_Type
+2022-08-05 15:27:34-108,LoadData_LOT,LoadData_LOT
+2022-08-05 15:27:34-108,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:27:34-108,LoadData_Type,LoadData_Type
+2022-08-05 15:27:34-127,LoadData_LOT,LoadData_LOT
+2022-08-05 15:27:34-127,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:27:34-127,LoadData_Type,LoadData_Type
+2022-08-05 15:28:41-552,LoadData_LOT,LoadData_LOT
+2022-08-05 15:28:41-552,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:28:41-552,LoadData_Type,LoadData_Type
+2022-08-05 15:28:41-604,LoadData_LOT,LoadData_LOT
+2022-08-05 15:28:41-604,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:28:41-604,LoadData_Type,LoadData_Type
+2022-08-05 15:28:41-647,LoadData_LOT,LoadData_LOT
+2022-08-05 15:28:41-647,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:28:41-647,LoadData_Type,LoadData_Type
+2022-08-05 15:28:42-798,LoadData_LOT,LoadData_LOT
+2022-08-05 15:28:42-798,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:28:42-798,LoadData_Type,LoadData_Type
+2022-08-05 15:28:41-647,bt_Type_Click,bt_Type_Click
+2022-08-05 15:29:24-221,LoadData_LOT,LoadData_LOT
+2022-08-05 15:29:24-221,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:29:24-221,LoadData_Type,LoadData_Type
+2022-08-05 15:29:24-271,LoadData_LOT,LoadData_LOT
+2022-08-05 15:29:24-271,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:29:24-271,LoadData_Type,LoadData_Type
+2022-08-05 15:29:24-289,LoadData_LOT,LoadData_LOT
+2022-08-05 15:29:24-289,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:29:24-289,LoadData_Type,LoadData_Type
+2022-08-05 15:29:27-335,LoadData_LOT,LoadData_LOT
+2022-08-05 15:29:27-335,LoadData_Order,인덱스가 배열 범위를 벗어났습니다.
+2022-08-05 15:29:27-335,LoadData_Type,LoadData_Type
+2022-08-05 15:29:27-335,오더선택,발주 번호 :000000000
+2022-08-05 15:29:24-289,bt_Order_Click,bt_Order_Click
+2022-08-05 15:29:32-670,LoadData_LOT,LoadData_LOT
+2022-08-05 15:29:32-670,LoadData_Order,LoadData_Order
+2022-08-05 15:29:32-670,LoadData_Type,LoadData_Type
+2022-08-05 15:29:24-289,bt_Type_Click,bt_Type_Click
+2022-08-05 15:32:20-93,LoadData_LOT,LoadData_LOT
+2022-08-05 15:32:20-93,LoadData_Order,LoadData_Order
+2022-08-05 15:32:20-93,LoadData_Type,LoadData_Type
+2022-08-05 15:32:20-155,LoadData_LOT,LoadData_LOT
+2022-08-05 15:32:20-155,LoadData_Order,LoadData_Order
+2022-08-05 15:32:20-155,LoadData_Type,LoadData_Type
+2022-08-05 15:32:20-172,LoadData_LOT,LoadData_LOT
+2022-08-05 15:32:20-172,LoadData_Order,LoadData_Order
+2022-08-05 15:32:20-172,LoadData_Type,LoadData_Type
+2022-08-05 15:32:23-940,LoadData_LOT,LoadData_LOT
+2022-08-05 15:32:23-940,LoadData_Order,LoadData_Order
+2022-08-05 15:32:23-940,LoadData_Type,LoadData_Type
+2022-08-05 15:32:23-940,차종 삭제,1
+2022-08-05 15:32:23-940,차종 삭제,BC3
+2022-08-05 15:32:20-172,bt_TypeSet_Click,bt_TypeSet_Click
+2022-08-05 15:32:39-295,LoadData_LOT,LoadData_LOT
+2022-08-05 15:32:39-295,LoadData_Order,LoadData_Order
+2022-08-05 15:32:39-295,LoadData_Type,LoadData_Type
+2022-08-05 15:32:20-172,bt_Type_Click,bt_Type_Click
+2022-08-05 15:33:30-751,LoadData_LOT,LoadData_LOT
+2022-08-05 15:33:30-751,LoadData_Order,LoadData_Order
+2022-08-05 15:33:30-751,LoadData_Type,LoadData_Type
+2022-08-05 15:33:30-795,LoadData_LOT,LoadData_LOT
+2022-08-05 15:33:30-795,LoadData_Order,LoadData_Order
+2022-08-05 15:33:30-795,LoadData_Type,LoadData_Type
+2022-08-05 15:33:30-810,LoadData_LOT,LoadData_LOT
+2022-08-05 15:33:30-810,LoadData_Order,LoadData_Order
+2022-08-05 15:33:30-810,LoadData_Type,LoadData_Type
+2022-08-05 15:33:34-429,LoadData_LOT,LoadData_LOT
+2022-08-05 15:33:34-429,LoadData_Order,LoadData_Order
+2022-08-05 15:33:34-429,LoadData_Type,LoadData_Type
+2022-08-05 15:33:30-810,bt_Order_Click,bt_Order_Click
+2022-08-05 15:33:40-92,LoadData_LOT,LoadData_LOT
+2022-08-05 15:33:40-92,LoadData_Order,LoadData_Order
+2022-08-05 15:33:40-92,LoadData_Type,LoadData_Type
+2022-08-05 15:33:30-810,bt_OrderSet_Click,bt_OrderSet_Click
+2022-08-05 15:42:57-383,LoadData_LOT,LoadData_LOT
+2022-08-05 15:42:57-383,LoadData_Order,LoadData_Order
+2022-08-05 15:42:57-383,LoadData_Type,LoadData_Type
+2022-08-05 15:42:57-431,LoadData_LOT,LoadData_LOT
+2022-08-05 15:42:57-431,LoadData_Order,LoadData_Order
+2022-08-05 15:42:57-431,LoadData_Type,LoadData_Type
+2022-08-05 15:42:57-447,LoadData_LOT,LoadData_LOT
+2022-08-05 15:42:57-447,LoadData_Order,LoadData_Order
+2022-08-05 15:42:57-447,LoadData_Type,LoadData_Type
+2022-08-05 15:42:58-806,LoadData_LOT,LoadData_LOT
+2022-08-05 15:42:58-806,LoadData_Order,LoadData_Order
+2022-08-05 15:42:58-806,LoadData_Type,LoadData_Type
+2022-08-05 15:42:57-447,bt_Type_Click,bt_Type_Click
+2022-08-05 15:43:4-187,LoadData_LOT,LoadData_LOT
+2022-08-05 15:43:4-187,LoadData_Order,LoadData_Order
+2022-08-05 15:43:4-187,LoadData_Type,LoadData_Type
+2022-08-05 15:42:57-447,bt_TypeSet_Click,bt_TypeSet_Click
+2022-08-05 15:43:6-598,LoadData_LOT,LoadData_LOT
+2022-08-05 15:43:6-598,LoadData_Order,LoadData_Order
+2022-08-05 15:43:6-598,LoadData_Type,LoadData_Type
+2022-08-05 15:42:57-447,bt_Type_Click,bt_Type_Click
+2022-08-05 15:45:25-930,LoadData_LOT,LoadData_LOT
+2022-08-05 15:45:25-930,LoadData_Order,LoadData_Order
+2022-08-05 15:45:25-930,LoadData_Type,LoadData_Type
+2022-08-05 15:45:25-977,LoadData_LOT,LoadData_LOT
+2022-08-05 15:45:25-977,LoadData_Order,LoadData_Order
+2022-08-05 15:45:25-977,LoadData_Type,LoadData_Type
+2022-08-05 15:45:25-992,LoadData_LOT,LoadData_LOT
+2022-08-05 15:45:25-992,LoadData_Order,LoadData_Order
+2022-08-05 15:45:25-992,LoadData_Type,LoadData_Type
+2022-08-05 15:45:29-151,LoadData_LOT,LoadData_LOT
+2022-08-05 15:45:29-151,LoadData_Order,LoadData_Order
+2022-08-05 15:45:29-151,LoadData_Type,LoadData_Type
+2022-08-05 15:45:29-151,오더선택,발주 번호 :000000000
+2022-08-05 15:45:25-992,bt_Order_Click,bt_Order_Click
+2022-08-05 15:45:32-455,LoadData_LOT,LoadData_LOT
+2022-08-05 15:45:32-455,LoadData_Order,LoadData_Order
+2022-08-05 15:45:32-455,LoadData_Type,LoadData_Type
+2022-08-05 15:45:32-455,오더선택,발주 번호 :11122255
+2022-08-05 15:45:25-992,bt_Order_Click,bt_Order_Click
+2022-08-05 15:45:41-470,LoadData_LOT,LoadData_LOT
+2022-08-05 15:45:41-470,LoadData_Order,LoadData_Order
+2022-08-05 15:45:41-470,LoadData_Type,LoadData_Type
+2022-08-05 15:45:41-470,오더선택,발주 번호 :000000000
+2022-08-05 15:45:25-992,bt_Order_Click,bt_Order_Click
+2022-08-05 15:47:46-87,LoadData_LOT,LoadData_LOT
+2022-08-05 15:47:46-87,LoadData_Order,LoadData_Order
+2022-08-05 15:47:46-87,LoadData_Type,LoadData_Type
+2022-08-05 15:47:46-130,LoadData_LOT,LoadData_LOT
+2022-08-05 15:47:46-130,LoadData_Order,LoadData_Order
+2022-08-05 15:47:46-130,LoadData_Type,LoadData_Type
+2022-08-05 15:47:46-145,LoadData_LOT,LoadData_LOT
+2022-08-05 15:47:46-145,LoadData_Order,LoadData_Order
+2022-08-05 15:47:46-145,LoadData_Type,LoadData_Type
+2022-08-05 15:47:47-421,LoadData_LOT,LoadData_LOT
+2022-08-05 15:47:47-421,LoadData_Order,LoadData_Order
+2022-08-05 15:47:47-421,LoadData_Type,LoadData_Type
+2022-08-05 15:47:46-145,bt_Type_Click,bt_Type_Click
+2022-08-05 15:48:7-948,LoadData_LOT,LoadData_LOT
+2022-08-05 15:48:7-948,LoadData_Order,LoadData_Order
+2022-08-05 15:48:7-948,LoadData_Type,LoadData_Type
+2022-08-05 15:48:7-996,LoadData_LOT,LoadData_LOT
+2022-08-05 15:48:7-996,LoadData_Order,LoadData_Order
+2022-08-05 15:48:7-996,LoadData_Type,LoadData_Type
+2022-08-05 15:48:8-12,LoadData_LOT,LoadData_LOT
+2022-08-05 15:48:8-12,LoadData_Order,LoadData_Order
+2022-08-05 15:48:8-12,LoadData_Type,LoadData_Type
+2022-08-05 15:48:8-678,LoadData_LOT,LoadData_LOT
+2022-08-05 15:48:8-678,LoadData_Order,LoadData_Order
+2022-08-05 15:48:8-678,LoadData_Type,LoadData_Type
+2022-08-05 15:48:8-12,bt_Type_Click,bt_Type_Click
+2022-08-05 15:51:22-217,LoadData_LOT,LoadData_LOT
+2022-08-05 15:51:22-217,LoadData_Order,LoadData_Order
+2022-08-05 15:51:22-217,LoadData_Type,LoadData_Type
+2022-08-05 15:51:41-172,LoadData_LOT,LoadData_LOT
+2022-08-05 15:51:41-172,LoadData_Order,LoadData_Order
+2022-08-05 15:51:41-172,LoadData_Type,LoadData_Type
+2022-08-05 15:51:58-214,LoadData_LOT,LoadData_LOT
+2022-08-05 15:51:58-214,LoadData_Order,LoadData_Order
+2022-08-05 15:51:58-214,LoadData_Type,LoadData_Type
+2022-08-05 15:52:9-558,LoadData_LOT,LoadData_LOT
+2022-08-05 15:52:9-558,LoadData_Order,LoadData_Order
+2022-08-05 15:52:9-558,LoadData_Type,LoadData_Type
+2022-08-05 15:52:9-601,LoadData_LOT,LoadData_LOT
+2022-08-05 15:52:9-601,LoadData_Order,LoadData_Order
+2022-08-05 15:52:9-601,LoadData_Type,LoadData_Type
+2022-08-05 15:52:9-615,LoadData_LOT,LoadData_LOT
+2022-08-05 15:52:9-615,LoadData_Order,LoadData_Order
+2022-08-05 15:52:9-615,LoadData_Type,LoadData_Type
+2022-08-05 15:52:10-669,LoadData_LOT,LoadData_LOT
+2022-08-05 15:52:10-669,LoadData_Order,LoadData_Order
+2022-08-05 15:52:10-669,LoadData_Type,LoadData_Type
+2022-08-05 15:52:9-615,bt_Type_Click,bt_Type_Click
+2022-08-05 15:53:21-911,LoadData_LOT,LoadData_LOT
+2022-08-05 15:53:21-911,LoadData_Order,LoadData_Order
+2022-08-05 15:53:21-911,LoadData_Type,LoadData_Type
+2022-08-05 15:53:21-968,LoadData_LOT,LoadData_LOT
+2022-08-05 15:53:21-968,LoadData_Order,LoadData_Order
+2022-08-05 15:53:21-968,LoadData_Type,LoadData_Type
+2022-08-05 15:53:21-984,LoadData_LOT,LoadData_LOT
+2022-08-05 15:53:21-984,LoadData_Order,LoadData_Order
+2022-08-05 15:53:21-984,LoadData_Type,LoadData_Type
+2022-08-05 15:53:28-49,LoadData_LOT,LoadData_LOT
+2022-08-05 15:53:28-49,LoadData_Order,LoadData_Order
+2022-08-05 15:53:28-49,LoadData_Type,LoadData_Type
+2022-08-05 15:53:21-984,bt_TypeSet_Click,bt_TypeSet_Click
+2022-08-05 15:54:8-349,LoadData_LOT,LoadData_LOT
+2022-08-05 15:54:8-349,LoadData_Order,LoadData_Order
+2022-08-05 15:54:8-349,LoadData_Type,LoadData_Type
+2022-08-05 15:53:21-984,bt_Type_Click,bt_Type_Click
+2022-08-05 15:54:15-349,LoadData_LOT,LoadData_LOT
+2022-08-05 15:54:15-349,LoadData_Order,LoadData_Order
+2022-08-05 15:54:15-349,LoadData_Type,LoadData_Type
+2022-08-05 15:53:21-984,bt_Type_Click,bt_Type_Click
+2022-08-05 15:54:19-775,LoadData_LOT,LoadData_LOT
+2022-08-05 15:54:19-775,LoadData_Order,LoadData_Order
+2022-08-05 15:54:19-775,LoadData_Type,LoadData_Type
+2022-08-05 15:54:19-775,오더선택,발주 번호 :000000000
+2022-08-05 15:53:21-984,bt_Order_Click,bt_Order_Click
+2022-08-05 15:54:22-925,LoadData_LOT,LoadData_LOT
+2022-08-05 15:54:22-925,LoadData_Order,LoadData_Order
+2022-08-05 15:54:22-925,LoadData_Type,LoadData_Type
+2022-08-05 15:53:21-984,bt_Type_Click,bt_Type_Click
+2022-08-05 15:54:28-474,LoadData_LOT,LoadData_LOT
+2022-08-05 15:54:28-474,LoadData_Order,LoadData_Order
+2022-08-05 15:54:28-474,LoadData_Type,LoadData_Type
+2022-08-05 15:53:21-984,bt_TypeSet_Click,bt_TypeSet_Click
+2022-08-05 15:53:21-984,bt_TypeSet_Click,bt_TypeSet_Click
+2022-08-05 15:55:23-431,LoadData_LOT,LoadData_LOT
+2022-08-05 15:55:23-431,LoadData_Order,LoadData_Order
+2022-08-05 15:55:23-431,LoadData_Type,LoadData_Type
+2022-08-05 15:55:23-477,LoadData_LOT,LoadData_LOT
+2022-08-05 15:55:23-477,LoadData_Order,LoadData_Order
+2022-08-05 15:55:23-477,LoadData_Type,LoadData_Type
+2022-08-05 15:55:23-493,LoadData_LOT,LoadData_LOT
+2022-08-05 15:55:23-493,LoadData_Order,LoadData_Order
+2022-08-05 15:55:23-493,LoadData_Type,LoadData_Type
+2022-08-05 15:55:24-181,LoadData_LOT,LoadData_LOT
+2022-08-05 15:55:24-181,LoadData_Order,LoadData_Order
+2022-08-05 15:55:24-181,LoadData_Type,LoadData_Type
+2022-08-05 15:55:23-493,bt_Type_Click,bt_Type_Click
+2022-08-05 16:0:58-900,LoadData_LOT,LoadData_LOT
+2022-08-05 16:0:58-900,LoadData_Order,LoadData_Order
+2022-08-05 16:0:58-900,LoadData_Type,LoadData_Type
+2022-08-05 16:0:58-946,LoadData_LOT,LoadData_LOT
+2022-08-05 16:0:58-946,LoadData_Order,LoadData_Order
+2022-08-05 16:0:58-946,LoadData_Type,LoadData_Type
+2022-08-05 16:0:58-963,LoadData_LOT,LoadData_LOT
+2022-08-05 16:0:58-963,LoadData_Order,LoadData_Order
+2022-08-05 16:0:58-963,LoadData_Type,LoadData_Type
+2022-08-05 16:1:0-69,LoadData_LOT,LoadData_LOT
+2022-08-05 16:1:0-69,LoadData_Order,LoadData_Order
+2022-08-05 16:1:0-69,LoadData_Type,LoadData_Type
+2022-08-05 16:0:58-963,bt_Type_Click,bt_Type_Click
+2022-08-05 16:1:5-849,LoadData_LOT,LoadData_LOT
+2022-08-05 16:1:5-849,LoadData_Order,LoadData_Order
+2022-08-05 16:1:5-849,LoadData_Type,LoadData_Type
+2022-08-05 16:1:5-849,차종 삭제,HH
+2022-08-05 16:0:58-963,bt_TypeSet_Click,bt_TypeSet_Click
+2022-08-05 16:1:16-628,LoadData_LOT,LoadData_LOT
+2022-08-05 16:1:16-628,LoadData_Order,LoadData_Order
+2022-08-05 16:1:16-628,LoadData_Type,LoadData_Type
+2022-08-05 16:0:58-963,bt_TypeSet_Click,bt_TypeSet_Click
+2022-08-05 16:1:21-169,LoadData_LOT,LoadData_LOT
+2022-08-05 16:1:21-169,LoadData_Order,LoadData_Order
+2022-08-05 16:1:21-169,LoadData_Type,LoadData_Type
+2022-08-05 16:0:58-963,bt_TypeSet_Click,bt_TypeSet_Click
+2022-08-05 16:1:22-926,LoadData_LOT,LoadData_LOT
+2022-08-05 16:1:22-926,LoadData_Order,LoadData_Order
+2022-08-05 16:1:22-926,LoadData_Type,LoadData_Type
+2022-08-05 16:0:58-963,bt_Type_Click,bt_Type_Click
+2022-08-05 16:1:36-591,LoadData_LOT,LoadData_LOT
+2022-08-05 16:1:36-591,LoadData_Order,LoadData_Order
+2022-08-05 16:1:36-591,LoadData_Type,LoadData_Type
+2022-08-05 16:1:36-636,LoadData_LOT,LoadData_LOT
+2022-08-05 16:1:36-636,LoadData_Order,LoadData_Order
+2022-08-05 16:1:36-636,LoadData_Type,LoadData_Type
+2022-08-05 16:1:36-652,LoadData_LOT,LoadData_LOT
+2022-08-05 16:1:36-652,LoadData_Order,LoadData_Order
+2022-08-05 16:1:36-652,LoadData_Type,LoadData_Type
+2022-08-05 16:1:39-698,LoadData_LOT,LoadData_LOT
+2022-08-05 16:1:39-698,LoadData_Order,LoadData_Order
+2022-08-05 16:1:39-698,LoadData_Type,LoadData_Type
+2022-08-05 16:1:36-652,bt_TypeSet_Click,bt_TypeSet_Click
+2022-08-05 16:1:42-21,LoadData_LOT,LoadData_LOT
+2022-08-05 16:1:42-21,LoadData_Order,LoadData_Order
+2022-08-05 16:1:42-21,LoadData_Type,LoadData_Type
+2022-08-05 16:1:36-652,bt_Type_Click,bt_Type_Click
+2022-08-05 16:21:18-521,LoadData_LOT,LoadData_LOT
+2022-08-05 16:21:18-521,LoadData_Order,LoadData_Order
+2022-08-05 16:21:18-521,LoadData_Type,LoadData_Type
+2022-08-05 16:21:18-565,LoadData_LOT,LoadData_LOT
+2022-08-05 16:21:18-565,LoadData_Order,LoadData_Order
+2022-08-05 16:21:18-565,LoadData_Type,LoadData_Type
+2022-08-05 16:21:18-581,LoadData_LOT,LoadData_LOT
+2022-08-05 16:21:18-581,LoadData_Order,LoadData_Order
+2022-08-05 16:21:18-581,LoadData_Type,LoadData_Type
+2022-08-05 16:21:19-892,LoadData_LOT,LoadData_LOT
+2022-08-05 16:21:19-892,LoadData_Order,LoadData_Order
+2022-08-05 16:21:19-892,LoadData_Type,LoadData_Type
+2022-08-05 16:21:18-581,bt_Type_Click,bt_Type_Click
+2022-08-05 16:21:24-316,LoadData_LOT,LoadData_LOT
+2022-08-05 16:21:24-316,LoadData_Order,LoadData_Order
+2022-08-05 16:21:24-316,LoadData_Type,LoadData_Type
+2022-08-05 16:21:24-316,차종선택,NX4
+2022-08-05 16:21:18-581,bt_Type_Click,bt_Type_Click
+2022-08-05 16:21:27-781,LoadData_LOT,LoadData_LOT
+2022-08-05 16:21:27-781,LoadData_Order,LoadData_Order
+2022-08-05 16:21:27-781,LoadData_Type,LoadData_Type
+2022-08-05 16:21:27-781,오더선택,발주 번호 :11122255
+2022-08-05 16:21:18-581,bt_Order_Click,bt_Order_Click
+2022-08-05 16:21:34-832,LoadData_LOT,LoadData_LOT
+2022-08-05 16:21:34-832,LoadData_Order,LoadData_Order
+2022-08-05 16:21:34-832,LoadData_Type,LoadData_Type
+2022-08-05 16:21:18-581,bt_TypeSet_Click,bt_TypeSet_Click
+2022-08-05 16:24:42-631,LoadData_LOT,LoadData_LOT
+2022-08-05 16:24:42-631,LoadData_Order,LoadData_Order
+2022-08-05 16:24:42-631,LoadData_Type,LoadData_Type
+2022-08-05 16:24:42-677,LoadData_LOT,LoadData_LOT
+2022-08-05 16:24:42-677,LoadData_Order,LoadData_Order
+2022-08-05 16:24:42-677,LoadData_Type,LoadData_Type
+2022-08-05 16:24:42-696,LoadData_LOT,LoadData_LOT
+2022-08-05 16:24:42-696,LoadData_Order,LoadData_Order
+2022-08-05 16:24:42-696,LoadData_Type,LoadData_Type
+2022-08-05 16:24:44-588,LoadData_LOT,LoadData_LOT
+2022-08-05 16:24:44-588,LoadData_Order,LoadData_Order
+2022-08-05 16:24:44-588,LoadData_Type,LoadData_Type
+2022-08-05 16:24:44-588,차종선택,HH
+2022-08-05 16:24:42-696,bt_Type_Click,bt_Type_Click
+2022-08-05 16:24:49-189,LoadData_LOT,LoadData_LOT
+2022-08-05 16:24:49-189,LoadData_Order,LoadData_Order
+2022-08-05 16:24:49-189,LoadData_Type,LoadData_Type
+2022-08-05 16:24:42-696,bt_Order_Click,bt_Order_Click
+2022-08-05 16:24:53-633,LoadData_LOT,LoadData_LOT
+2022-08-05 16:24:53-633,LoadData_Order,LoadData_Order
+2022-08-05 16:24:53-633,LoadData_Type,LoadData_Type
+2022-08-05 16:24:42-696,bt_TypeSet_Click,bt_TypeSet_Click
+2022-08-05 16:24:58-676,LoadData_LOT,LoadData_LOT
+2022-08-05 16:24:58-676,LoadData_Order,LoadData_Order
+2022-08-05 16:24:58-676,LoadData_Type,LoadData_Type
+2022-08-05 16:24:58-676,오더선택,발주 번호 :000000000
+2022-08-05 16:24:42-696,bt_Order_Click,bt_Order_Click
+2022-08-05 16:25:5-8,LoadData_LOT,LoadData_LOT
+2022-08-05 16:25:5-8,LoadData_Order,LoadData_Order
+2022-08-05 16:25:5-8,LoadData_Type,LoadData_Type
+2022-08-05 16:24:42-696,bt_TypeSet_Click,bt_TypeSet_Click
+2022-08-05 16:25:24-108,LoadData_LOT,LoadData_LOT
+2022-08-05 16:25:24-108,LoadData_Order,LoadData_Order
+2022-08-05 16:25:24-108,LoadData_Type,LoadData_Type
+2022-08-05 16:25:24-108,오더선택,발주 번호 :000000000
+2022-08-05 16:24:42-696,bt_Order_Click,bt_Order_Click
+2022-08-05 16:25:28-811,LoadData_LOT,LoadData_LOT
+2022-08-05 16:25:28-811,LoadData_Order,LoadData_Order
+2022-08-05 16:25:28-811,LoadData_Type,LoadData_Type
+2022-08-05 16:25:28-811,차종선택,BC3
+2022-08-05 16:24:42-696,bt_Type_Click,bt_Type_Click
+2022-08-05 16:25:38-387,LoadData_LOT,LoadData_LOT
+2022-08-05 16:25:38-387,LoadData_Order,LoadData_Order
+2022-08-05 16:25:38-387,LoadData_Type,LoadData_Type
+2022-08-05 16:24:42-696,bt_OrderSet_Click,bt_OrderSet_Click
+2022-08-05 16:25:56-140,LoadData_LOT,LoadData_LOT
+2022-08-05 16:25:56-140,LoadData_Order,LoadData_Order
+2022-08-05 16:25:56-140,LoadData_Type,LoadData_Type
+2022-08-05 16:25:56-140,오더선택,발주 번호 :787878
+2022-08-05 16:24:42-696,bt_Order_Click,bt_Order_Click
+2022-08-05 16:25:59-788,LoadData_LOT,LoadData_LOT
+2022-08-05 16:25:59-788,LoadData_Order,LoadData_Order
+2022-08-05 16:25:59-788,LoadData_Type,LoadData_Type
+2022-08-05 16:25:59-788,차종선택,NX4
+2022-08-05 16:24:42-696,bt_Type_Click,bt_Type_Click
+2022-08-05 16:26:9-177,LoadData_LOT,LoadData_LOT
+2022-08-05 16:26:9-177,LoadData_Order,LoadData_Order
+2022-08-05 16:26:9-177,LoadData_Type,LoadData_Type
+2022-08-05 16:24:42-696,bt_TypeSet_Click,bt_TypeSet_Click
+2022-08-05 16:27:58-498,LoadData_LOT,LoadData_LOT
+2022-08-05 16:27:58-498,LoadData_Order,LoadData_Order
+2022-08-05 16:27:58-498,LoadData_Type,LoadData_Type
+2022-08-05 16:27:58-547,LoadData_LOT,LoadData_LOT
+2022-08-05 16:27:58-547,LoadData_Order,LoadData_Order
+2022-08-05 16:27:58-547,LoadData_Type,LoadData_Type
+2022-08-05 16:27:58-562,LoadData_LOT,LoadData_LOT
+2022-08-05 16:27:58-562,LoadData_Order,LoadData_Order
+2022-08-05 16:27:58-562,LoadData_Type,LoadData_Type
+2022-08-05 16:27:58-562,bt_TypeSet_Click,bt_TypeSet_Click
+2022-08-05 16:28:3-659,LoadData_LOT,LoadData_LOT
+2022-08-05 16:28:3-659,LoadData_Order,LoadData_Order
+2022-08-05 16:28:3-659,LoadData_Type,LoadData_Type
+2022-08-05 16:28:3-659,오더선택,발주 번호 :000000000
+2022-08-05 16:27:58-562,bt_Order_Click,bt_Order_Click
+2022-08-05 16:28:8-747,LoadData_LOT,LoadData_LOT
+2022-08-05 16:28:8-747,LoadData_Order,LoadData_Order
+2022-08-05 16:28:8-747,LoadData_Type,LoadData_Type
+2022-08-05 16:27:58-562,bt_OrderSet_Click,bt_OrderSet_Click
+2022-08-05 16:28:16-186,LoadData_LOT,LoadData_LOT
+2022-08-05 16:28:16-186,LoadData_Order,LoadData_Order
+2022-08-05 16:28:16-186,LoadData_Type,LoadData_Type
+2022-08-05 16:27:58-562,bt_OrderSet_Click,bt_OrderSet_Click
+2022-08-05 16:28:18-548,LoadData_LOT,LoadData_LOT
+2022-08-05 16:28:18-548,LoadData_Order,LoadData_Order
+2022-08-05 16:28:18-548,LoadData_Type,LoadData_Type
+2022-08-05 16:27:58-562,bt_Order_Click,bt_Order_Click
+2022-08-05 16:30:13-351,LoadData_LOT,LoadData_LOT
+2022-08-05 16:30:13-351,LoadData_Order,LoadData_Order
+2022-08-05 16:30:13-351,LoadData_Type,LoadData_Type
+2022-08-05 16:30:13-397,LoadData_LOT,LoadData_LOT
+2022-08-05 16:30:13-397,LoadData_Order,LoadData_Order
+2022-08-05 16:30:13-397,LoadData_Type,LoadData_Type
+2022-08-05 16:30:13-412,LoadData_LOT,LoadData_LOT
+2022-08-05 16:30:13-412,LoadData_Order,LoadData_Order
+2022-08-05 16:30:13-412,LoadData_Type,LoadData_Type
+2022-08-05 16:30:14-716,LoadData_LOT,LoadData_LOT
+2022-08-05 16:30:14-716,LoadData_Order,LoadData_Order
+2022-08-05 16:30:14-716,LoadData_Type,LoadData_Type
+2022-08-05 16:30:13-412,bt_Order_Click,bt_Order_Click
+2022-08-05 16:30:22-265,LoadData_LOT,LoadData_LOT
+2022-08-05 16:30:22-265,LoadData_Order,LoadData_Order
+2022-08-05 16:30:22-265,LoadData_Type,LoadData_Type
+2022-08-05 16:30:13-412,bt_OrderSet_Click,bt_OrderSet_Click
+2022-08-05 16:32:5-579,LoadData_LOT,LoadData_LOT
+2022-08-05 16:32:5-579,LoadData_Order,LoadData_Order
+2022-08-05 16:32:5-579,LoadData_Type,LoadData_Type
+2022-08-05 16:32:5-624,LoadData_LOT,LoadData_LOT
+2022-08-05 16:32:5-624,LoadData_Order,LoadData_Order
+2022-08-05 16:32:5-624,LoadData_Type,LoadData_Type
+2022-08-05 16:32:5-641,LoadData_LOT,LoadData_LOT
+2022-08-05 16:32:5-641,LoadData_Order,LoadData_Order
+2022-08-05 16:32:5-641,LoadData_Type,LoadData_Type
+2022-08-05 16:32:5-641,bt_Login_Click,bt_Login_Click
+2022-08-05 16:32:12-913,LoadData_LOT,LoadData_LOT
+2022-08-05 16:32:12-913,LoadData_Order,LoadData_Order
+2022-08-05 16:32:12-913,LoadData_Type,LoadData_Type
+2022-08-05 16:32:5-641,bt_LoginSet_Click,bt_LoginSet_Click
+2022-08-05 16:32:5-641,bt_Login_Click,bt_Login_Click
+2022-08-05 16:32:5-641,LoginSuccess,와랄랄으로 로그인 되었습니다.
+2022-08-05 16:32:5-641,bt_Login_Click,bt_Login_Click
+2022-08-05 16:32:5-641,bt_Login_Click,bt_Login_Click
+2022-08-05 16:32:5-641,LoginSuccess,와랄랄으로 로그인 되었습니다.
+2022-08-05 16:33:39-445,LoadData_LOT,LoadData_LOT
+2022-08-05 16:33:39-445,LoadData_Order,LoadData_Order
+2022-08-05 16:33:39-445,LoadData_Type,LoadData_Type
+2022-08-05 16:33:39-490,LoadData_LOT,LoadData_LOT
+2022-08-05 16:33:39-490,LoadData_Order,LoadData_Order
+2022-08-05 16:33:39-490,LoadData_Type,LoadData_Type
+2022-08-05 16:33:39-505,LoadData_LOT,LoadData_LOT
+2022-08-05 16:33:39-505,LoadData_Order,LoadData_Order
+2022-08-05 16:33:39-505,LoadData_Type,LoadData_Type
+2022-08-05 16:33:39-505,bt_Login_Click,bt_Login_Click
+2022-08-05 16:33:39-505,LoginSuccess,와랄랄으로 로그인 되었습니다.
+2022-08-05 16:38:15-159,LoadData_LOT,LoadData_LOT
+2022-08-05 16:38:15-159,LoadData_Order,LoadData_Order
+2022-08-05 16:38:15-159,LoadData_Type,LoadData_Type
+2022-08-05 16:38:15-226,LoadData_LOT,LoadData_LOT
+2022-08-05 16:38:15-226,LoadData_Order,LoadData_Order
+2022-08-05 16:38:15-226,LoadData_Type,LoadData_Type
+2022-08-05 16:38:15-242,LoadData_LOT,LoadData_LOT
+2022-08-05 16:38:15-242,LoadData_Order,LoadData_Order
+2022-08-05 16:38:15-242,LoadData_Type,LoadData_Type
+2022-08-05 16:38:15-242,bt_Login_Click,bt_Login_Click
+2022-08-05 16:38:15-242,LoginSuccess,와랄랄으로 로그인 되었습니다.
+2022-08-05 16:38:39-346,LoadData_LOT,LoadData_LOT
+2022-08-05 16:38:39-346,LoadData_Order,LoadData_Order
+2022-08-05 16:38:39-346,LoadData_Type,LoadData_Type
+2022-08-05 16:38:39-391,LoadData_LOT,LoadData_LOT
+2022-08-05 16:38:39-391,LoadData_Order,LoadData_Order
+2022-08-05 16:38:39-391,LoadData_Type,LoadData_Type
+2022-08-05 16:38:39-407,LoadData_LOT,LoadData_LOT
+2022-08-05 16:38:39-407,LoadData_Order,LoadData_Order
+2022-08-05 16:38:39-407,LoadData_Type,LoadData_Type
+2022-08-05 16:38:39-407,bt_Login_Click,bt_Login_Click
+2022-08-05 16:38:39-407,LoginSuccess,와랄랄으로 로그인 되었습니다.
+2022-08-05 16:39:56-438,LoadData_LOT,LoadData_LOT
+2022-08-05 16:39:56-438,LoadData_Order,LoadData_Order
+2022-08-05 16:39:56-438,LoadData_Type,LoadData_Type
+2022-08-05 16:39:56-483,LoadData_LOT,LoadData_LOT
+2022-08-05 16:39:56-483,LoadData_Order,LoadData_Order
+2022-08-05 16:39:56-483,LoadData_Type,LoadData_Type
+2022-08-05 16:39:56-497,LoadData_LOT,LoadData_LOT
+2022-08-05 16:39:56-497,LoadData_Order,LoadData_Order
+2022-08-05 16:39:56-497,LoadData_Type,LoadData_Type
+2022-08-05 16:40:23-126,LoadData_LOT,LoadData_LOT
+2022-08-05 16:40:23-126,LoadData_Order,LoadData_Order
+2022-08-05 16:40:23-126,LoadData_Type,LoadData_Type
+2022-08-05 16:40:23-186,LoadData_LOT,LoadData_LOT
+2022-08-05 16:40:23-186,LoadData_Order,LoadData_Order
+2022-08-05 16:40:23-186,LoadData_Type,LoadData_Type
+2022-08-05 16:40:23-200,LoadData_LOT,LoadData_LOT
+2022-08-05 16:40:23-200,LoadData_Order,LoadData_Order
+2022-08-05 16:40:23-200,LoadData_Type,LoadData_Type
+2022-08-05 16:40:23-200,bt_Login_Click,bt_Login_Click
+2022-08-05 16:40:23-200,LoginSuccess,김아무개으로 로그인 되었습니다.
+2022-08-05 16:41:24-489,LoadData_LOT,LoadData_LOT
+2022-08-05 16:41:24-489,LoadData_Order,LoadData_Order
+2022-08-05 16:41:24-489,LoadData_Type,LoadData_Type
+2022-08-05 16:41:24-532,LoadData_LOT,LoadData_LOT
+2022-08-05 16:41:24-532,LoadData_Order,LoadData_Order
+2022-08-05 16:41:24-532,LoadData_Type,LoadData_Type
+2022-08-05 16:41:24-547,LoadData_LOT,LoadData_LOT
+2022-08-05 16:41:24-547,LoadData_Order,LoadData_Order
+2022-08-05 16:41:24-547,LoadData_Type,LoadData_Type
+2022-08-05 16:41:24-547,bt_Login_Click,bt_Login_Click
+2022-08-05 16:41:24-547,LoginSuccess,와랄랄으로 로그인 되었습니다.
+2022-08-05 16:41:24-547,bt_Login_Click,bt_Login_Click
+2022-08-05 16:41:55-666,LoadData_LOT,LoadData_LOT
+2022-08-05 16:41:55-666,LoadData_Order,LoadData_Order
+2022-08-05 16:41:55-666,LoadData_Type,LoadData_Type
+2022-08-05 16:41:55-715,LoadData_LOT,LoadData_LOT
+2022-08-05 16:41:55-715,LoadData_Order,LoadData_Order
+2022-08-05 16:41:55-715,LoadData_Type,LoadData_Type
+2022-08-05 16:41:55-732,LoadData_LOT,LoadData_LOT
+2022-08-05 16:41:55-732,LoadData_Order,LoadData_Order
+2022-08-05 16:41:55-732,LoadData_Type,LoadData_Type
+2022-08-05 16:41:55-732,bt_Login_Click,bt_Login_Click
+2022-08-05 16:41:55-732,LoginSuccess,김아무개으로 로그인 되었습니다.
+2022-08-05 16:41:55-732,bt_Login_Click,bt_Login_Click
+2022-08-05 16:41:55-732,LoginSuccess,김아무개으로 로그인 되었습니다.
+2022-08-05 16:41:55-732,bt_Login_Click,bt_Login_Click
+2022-08-05 16:41:55-732,LoginSuccess,와랄랄으로 로그인 되었습니다.
+2022-08-05 16:43:1-274,LoadData_LOT,LoadData_LOT
+2022-08-05 16:43:1-274,LoadData_Order,LoadData_Order
+2022-08-05 16:43:1-274,LoadData_Type,LoadData_Type
+2022-08-05 16:43:1-319,LoadData_LOT,LoadData_LOT
+2022-08-05 16:43:1-319,LoadData_Order,LoadData_Order
+2022-08-05 16:43:1-319,LoadData_Type,LoadData_Type
+2022-08-05 16:43:1-333,LoadData_LOT,LoadData_LOT
+2022-08-05 16:43:1-333,LoadData_Order,LoadData_Order
+2022-08-05 16:43:1-333,LoadData_Type,LoadData_Type
+2022-08-05 16:43:1-333,bt_Login_Click,bt_Login_Click
+2022-08-05 16:43:1-333,LoginSuccess,김아무개으로 로그인 되었습니다.
+2022-08-05 16:43:1-333,bt_Login_Click,bt_Login_Click
+2022-08-05 16:43:1-333,LoginSuccess,와랄랄으로 로그인 되었습니다.
+2022-08-05 16:46:11-729,LoadData_LOT,LoadData_LOT
+2022-08-05 16:46:11-729,LoadData_Order,LoadData_Order
+2022-08-05 16:46:11-729,LoadData_Type,LoadData_Type
+2022-08-05 16:46:11-788,LoadData_LOT,LoadData_LOT
+2022-08-05 16:46:11-788,LoadData_Order,LoadData_Order
+2022-08-05 16:46:11-788,LoadData_Type,LoadData_Type
+2022-08-05 16:46:11-803,LoadData_LOT,LoadData_LOT
+2022-08-05 16:46:11-803,LoadData_Order,LoadData_Order
+2022-08-05 16:46:11-803,LoadData_Type,LoadData_Type
+2022-08-05 16:46:11-803,bt_Login_Click,bt_Login_Click
+2022-08-05 16:46:11-803,LoginSuccess,김아무개으로 로그인 되었습니다.
+2022-08-05 16:54:24-430,LoadData_LOT,LoadData_LOT
+2022-08-05 16:54:24-430,LoadData_Order,LoadData_Order
+2022-08-05 16:54:24-430,LoadData_Type,LoadData_Type
+2022-08-05 16:54:24-477,LoadData_LOT,LoadData_LOT
+2022-08-05 16:54:24-477,LoadData_Order,LoadData_Order
+2022-08-05 16:54:24-477,LoadData_Type,LoadData_Type
+2022-08-05 16:54:24-493,LoadData_LOT,LoadData_LOT
+2022-08-05 16:54:24-493,LoadData_Order,LoadData_Order
+2022-08-05 16:54:24-493,LoadData_Type,LoadData_Type
+2022-08-05 16:54:24-493,bt_Login_Click,bt_Login_Click
+2022-08-05 16:54:24-493,LoginSuccess,김아무개으로 로그인 되었습니다.
+2022-08-05 16:54:47-1,LoadData_LOT,LoadData_LOT
+2022-08-05 16:54:47-1,LoadData_Order,LoadData_Order
+2022-08-05 16:54:47-1,LoadData_Type,LoadData_Type
+2022-08-05 16:54:47-46,LoadData_LOT,LoadData_LOT
+2022-08-05 16:54:47-46,LoadData_Order,LoadData_Order
+2022-08-05 16:54:47-46,LoadData_Type,LoadData_Type
+2022-08-05 16:54:47-63,LoadData_LOT,LoadData_LOT
+2022-08-05 16:54:47-63,LoadData_Order,LoadData_Order
+2022-08-05 16:54:47-63,LoadData_Type,LoadData_Type
+2022-08-05 16:54:47-63,bt_Login_Click,bt_Login_Click
+2022-08-05 16:54:47-63,LoginSuccess,이아무개으로 로그인 되었습니다.
+2022-08-05 16:54:47-63,bt_Login_Click,bt_Login_Click
+2022-08-05 16:54:47-63,LoginSuccess,와랄랄으로 로그인 되었습니다.
+2022-08-05 17:7:1-453,LoadData_LOT,LoadData_LOT
+2022-08-05 17:7:1-453,LoadData_Order,LoadData_Order
+2022-08-05 17:7:1-453,LoadData_Type,LoadData_Type
+2022-08-05 17:7:1-502,LoadData_LOT,LoadData_LOT
+2022-08-05 17:7:1-502,LoadData_Order,LoadData_Order
+2022-08-05 17:7:1-502,LoadData_Type,LoadData_Type
+2022-08-05 17:7:1-517,LoadData_LOT,LoadData_LOT
+2022-08-05 17:7:1-517,LoadData_Order,LoadData_Order
+2022-08-05 17:7:1-517,LoadData_Type,LoadData_Type
+2022-08-05 17:7:3-114,LoadData_LOT,LoadData_LOT
+2022-08-05 17:7:3-114,LoadData_Order,LoadData_Order
+2022-08-05 17:7:3-114,LoadData_Type,LoadData_Type
+2022-08-05 17:7:1-517,bt_Order_Click,bt_Order_Click
+2022-08-05 17:7:7-783,LoadData_LOT,LoadData_LOT
+2022-08-05 17:7:7-783,LoadData_Order,LoadData_Order
+2022-08-05 17:7:7-783,LoadData_Type,LoadData_Type
+2022-08-05 17:7:1-517,bt_OrderSet_Click,bt_OrderSet_Click
+2022-08-05 17:7:11-787,LoadData_LOT,LoadData_LOT
+2022-08-05 17:7:11-787,LoadData_Order,LoadData_Order
+2022-08-05 17:7:11-787,LoadData_Type,LoadData_Type
+2022-08-05 17:7:1-517,bt_Order_Click,bt_Order_Click
+2022-08-05 17:15:29-287,LoadData_LOT,LoadData_LOT
+2022-08-05 17:15:29-287,LoadData_Order,LoadData_Order
+2022-08-05 17:15:29-287,LoadData_Type,LoadData_Type
+2022-08-05 17:15:29-342,LoadData_LOT,LoadData_LOT
+2022-08-05 17:15:29-342,LoadData_Order,LoadData_Order
+2022-08-05 17:15:29-342,LoadData_Type,LoadData_Type
+2022-08-05 17:15:29-356,LoadData_LOT,LoadData_LOT
+2022-08-05 17:15:29-356,LoadData_Order,LoadData_Order
+2022-08-05 17:15:29-356,LoadData_Type,LoadData_Type
+2022-08-05 17:15:30-618,LoadData_LOT,LoadData_LOT
+2022-08-05 17:15:30-618,LoadData_Order,LoadData_Order
+2022-08-05 17:15:30-618,LoadData_Type,LoadData_Type
+2022-08-05 17:15:29-356,bt_Type_Click,bt_Type_Click
+2022-08-05 17:15:35-299,LoadData_LOT,LoadData_LOT
+2022-08-05 17:15:35-299,LoadData_Order,LoadData_Order
+2022-08-05 17:15:35-299,LoadData_Type,LoadData_Type
+2022-08-05 17:15:29-356,bt_Order_Click,bt_Order_Click
+2022-08-05 17:15:44-159,LoadData_LOT,LoadData_LOT
+2022-08-05 17:15:44-159,LoadData_Order,LoadData_Order
+2022-08-05 17:15:44-159,LoadData_Type,LoadData_Type
+2022-08-05 17:15:29-356,bt_OrderSet_Click,bt_OrderSet_Click
+2022-08-05 17:17:6-898,LoadData_LOT,LoadData_LOT
+2022-08-05 17:17:6-898,LoadData_Order,LoadData_Order
+2022-08-05 17:17:6-898,LoadData_Type,LoadData_Type
+2022-08-05 17:17:6-943,LoadData_LOT,LoadData_LOT
+2022-08-05 17:17:6-943,LoadData_Order,LoadData_Order
+2022-08-05 17:17:6-943,LoadData_Type,LoadData_Type
+2022-08-05 17:17:6-958,LoadData_LOT,LoadData_LOT
+2022-08-05 17:17:6-958,LoadData_Order,LoadData_Order
+2022-08-05 17:17:6-958,LoadData_Type,LoadData_Type
+2022-08-05 17:17:10-287,LoadData_LOT,LoadData_LOT
+2022-08-05 17:17:10-287,LoadData_Order,LoadData_Order
+2022-08-05 17:17:10-287,LoadData_Type,LoadData_Type
+2022-08-05 17:17:10-287,오더 삭제,발주 번호 :111
+2022-08-05 17:17:40-122,LoadData_LOT,LoadData_LOT
+2022-08-05 17:17:40-122,LoadData_Order,LoadData_Order
+2022-08-05 17:17:40-122,LoadData_Type,LoadData_Type
+2022-08-05 17:17:40-202,LoadData_LOT,LoadData_LOT
+2022-08-05 17:17:40-202,LoadData_Order,LoadData_Order
+2022-08-05 17:17:40-202,LoadData_Type,LoadData_Type
+2022-08-05 17:17:40-218,LoadData_LOT,LoadData_LOT
+2022-08-05 17:17:40-218,LoadData_Order,LoadData_Order
+2022-08-05 17:17:40-218,LoadData_Type,LoadData_Type
+2022-08-05 17:17:44-967,LoadData_LOT,LoadData_LOT
+2022-08-05 17:17:44-967,LoadData_Order,LoadData_Order
+2022-08-05 17:17:44-967,LoadData_Type,LoadData_Type
+2022-08-05 17:17:40-218,bt_OrderSet_Click,bt_OrderSet_Click
+2022-08-05 17:18:39-177,LoadData_LOT,LoadData_LOT
+2022-08-05 17:18:39-177,LoadData_Order,LoadData_Order
+2022-08-05 17:18:39-177,LoadData_Type,LoadData_Type
+2022-08-05 17:18:39-233,LoadData_LOT,LoadData_LOT
+2022-08-05 17:18:39-233,LoadData_Order,LoadData_Order
+2022-08-05 17:18:39-233,LoadData_Type,LoadData_Type
+2022-08-05 17:18:39-249,LoadData_LOT,LoadData_LOT
+2022-08-05 17:18:39-249,LoadData_Order,LoadData_Order
+2022-08-05 17:18:39-249,LoadData_Type,LoadData_Type
+2022-08-05 17:18:41-161,LoadData_LOT,LoadData_LOT
+2022-08-05 17:18:41-161,LoadData_Order,LoadData_Order
+2022-08-05 17:18:41-161,LoadData_Type,LoadData_Type
+2022-08-05 17:18:39-249,bt_Order_Click,bt_Order_Click
+2022-08-05 17:22:8-515,LoadData_LOT,LoadData_LOT
+2022-08-05 17:22:8-515,LoadData_Order,LoadData_Order
+2022-08-05 17:22:8-515,LoadData_Type,LoadData_Type
+2022-08-05 17:22:8-590,LoadData_LOT,LoadData_LOT
+2022-08-05 17:22:8-590,LoadData_Order,LoadData_Order
+2022-08-05 17:22:8-590,LoadData_Type,LoadData_Type
+2022-08-05 17:22:8-603,LoadData_LOT,LoadData_LOT
+2022-08-05 17:22:8-603,LoadData_Order,LoadData_Order
+2022-08-05 17:22:8-603,LoadData_Type,LoadData_Type
+2022-08-05 17:22:9-978,LoadData_LOT,LoadData_LOT
+2022-08-05 17:22:9-978,LoadData_Order,LoadData_Order
+2022-08-05 17:22:9-978,LoadData_Type,LoadData_Type
+2022-08-05 17:22:8-603,bt_Order_Click,bt_Order_Click
+2022-08-05 17:22:14-326,LoadData_LOT,LoadData_LOT
+2022-08-05 17:22:14-326,LoadData_Order,LoadData_Order
+2022-08-05 17:22:14-326,LoadData_Type,LoadData_Type
+2022-08-05 17:23:21-196,LoadData_LOT,LoadData_LOT
+2022-08-05 17:23:21-196,LoadData_Order,LoadData_Order
+2022-08-05 17:23:21-196,LoadData_Type,LoadData_Type
+2022-08-05 17:23:21-256,LoadData_LOT,LoadData_LOT
+2022-08-05 17:23:21-256,LoadData_Order,LoadData_Order
+2022-08-05 17:23:21-256,LoadData_Type,LoadData_Type
+2022-08-05 17:23:21-273,LoadData_LOT,LoadData_LOT
+2022-08-05 17:23:21-273,LoadData_Order,LoadData_Order
+2022-08-05 17:23:21-273,LoadData_Type,LoadData_Type

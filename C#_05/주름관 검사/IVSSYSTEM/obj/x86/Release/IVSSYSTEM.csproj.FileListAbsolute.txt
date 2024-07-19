@@ -1,0 +1,5 @@
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\obj\x86\Release\IVSSYSTEM.Form1.resources
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\obj\x86\Release\IVSSYSTEM.Form2.resources
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\obj\x86\Release\IVSSYSTEM.MainForm.resources
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\obj\x86\Release\IVSSYSTEM.Properties.Resources.resources
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\obj\x86\Release\IVSSYSTEM.csproj.GenerateResource.Cache

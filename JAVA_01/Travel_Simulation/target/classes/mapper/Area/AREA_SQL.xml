@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="Area">
+	
+	<!-- 검색기준에 따른 조건 설정 -->
+	<sql id="searchCondition">
+		<if test="searchType != null">
+			<if test="searchType == 'n'.toString()">
+				AND (CTY_NAME like '%' || #{keyword} || '%'
+					or AREA like '%' || #{keyword} || '%')
+			</if>
+			<if test="searchType == 'd'.toString()">
+				AND D_NAME like '%' || #{keyword} || '%'
+			</if>
+			<if test="searchType == 'all'.toString()">
+				AND (D_NAME like '%' || #{keyword} || '%'
+					or AREA like '%' || #{keyword} || '%'
+					or CTY_NAME like '%' || #{keyword} || '%')
+			</if>
+		</if>
+	</sql>
+	
+	
+	<!-- 나라이름 검색 -->
+	<select id="areaSelectChk" parameterType="hashmap" resultType="hashmap">
+
+		SELECT IMG_SEQ
+			 , IMG_NAME
+			 , D_INFO
+			 , CTY_CODE
+			 , AREA
+			 , IMG_SIZE
+			 , D_SEQ
+			 , CTY_NAME
+			 , D_NAME
+			 , REP_IMG
+			 , GRADE
+		FROM  AREA_INFO
+		WHERE (AREA||CTY_NAME||D_NAME) LIKE '%'||#{AREA}||'%'
+		AND REP_IMG = '1'
+		ORDER BY GRADE DESC NULLS LAST
+
+	</select>
+	
+	<!-- 전체목록 조회 -->
+	<select id="areaAllSelectChk" parameterType="hashmap" resultType="hashmap">
+
+		SELECT IMG_SEQ
+			 , IMG_NAME
+			 , D_INFO
+			 , CTY_CODE
+			 , AREA
+			 , IMG_SIZE
+			 , D_SEQ
+			 , CTY_NAME
+			 , D_NAME
+			 , REP_IMG
+			 , GRADE
+		FROM  AREA_INFO
+		WHERE REP_IMG = '1'
+		<if test="rownum != null and !rownum eq '' ">
+			 <![CDATA[ AND ROWNUM < 5 ]]>
+		</if>
+		ORDER BY GRADE DESC NULLS LAST
+
+	</select>
+	
+	<!-- 나라이름 검색 -->
+	<select id="areaTourChk" parameterType="hashmap" resultType="hashmap">
+
+		SELECT IMG_SEQ
+			 , IMG_NAME
+			 , D_INFO
+			 , CTY_CODE
+			 , AREA
+			 , IMG_SIZE
+			 , D_SEQ
+			 , CTY_NAME
+			 , D_NAME
+			 , REP_IMG
+			 , GRADE
+		FROM  AREA_INFO
+		WHERE (AREA||CTY_NAME||D_NAME) LIKE '%'||#{AREA}||'%'
+		ORDER BY GRADE DESC NULLS LAST
+
+	</select>
+	
+	<!-- 관광지 정보 가져오기 -->
+	<select id="areaInfoChk" parameterType="hashmap" resultType="hashmap">
+
+		SELECT IMG_SEQ
+			 , IMG_NAME
+			 , D_INFO
+			 , CTY_CODE
+			 , AREA
+			 , IMG_SIZE
+			 , D_SEQ
+			 , CTY_NAME
+			 , D_NAME
+			 , REP_IMG
+			 , GRADE
+		FROM  AREA_INFO
+		WHERE D_NAME = #{D_NAME}
+
+	</select>
+	<!-- 국가 정보 가져오기 -->
+	<select id="CNTinfo" parameterType="hashmap" resultType="hashmap">
+
+		SELECT 	 CNT_NAME
+				,CNT_CODE
+				,CNT_LAT
+				,CNT_LNG
+				,CNT_ICON_IMG
+		FROM  COUNTRY_INFO
+
+
+	</select>
+	
+	<!-- main selectbox  -->
+	<select id="selectBox" parameterType="hashmap" resultType="hashmap">
+		SELECT DISTINCT CNT_NAME
+			 , CNT_CODE
+			 , CNT_CONTINENT
+		  FROM COUNTRY_INFO
+	</select>
+	
+	<!-- main selectbox  -->
+	<select id="oneSelectBox" parameterType="hashmap" resultType="hashmap">
+		SELECT DISTINCT CNT_NAME
+			 , CNT_CODE
+			 , CNT_CONTINENT
+		  FROM COUNTRY_INFO
+		 WHERE CNT_CODE = #{CODE}
+	</select>
+
+	<!-- 총 게시글 갯수 출력 -->
+	<select id="areaCount" parameterType="hashmap" resultType="int">
+		SELECT COUNT(*) FROM AREA_INFO 
+		WHERE REP_IMG = '1'
+		<include refid="searchCondition"></include>
+	</select>
+		
+	<!-- 무한 스크롤 처리 게시글 목록 조회 -->
+	<select id="areaSelect" resultType="HashMap">
+		SELECT * 
+			FROM (
+				SELECT ROWNUM RN, A.* 
+					FROM (
+							SELECT * 
+							FROM AREA_INFO  
+							WHERE REP_IMG = '1'
+							<include refid="searchCondition"></include>
+							ORDER BY GRADE DESC NULLS LAST
+							) A
+					)
+		WHERE RN BETWEEN #{start} AND #{end}
+	</select>
+	
+	<!-- 리뷰불러오기 -->
+	<select id="reviewSelect" resultType="HashMap">
+		SELECT M_ID
+ 		    , URV_TITLE
+     		, URV_CONTENT
+     		, PREVIEWBNO
+		  FROM USER_REVIEW
+ 		WHERE URV_PLACE = #{D_NAME}
+	</select>
+	
+	
+</mapper>

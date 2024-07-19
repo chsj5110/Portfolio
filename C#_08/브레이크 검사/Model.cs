@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace chsj
+{
+    public partial class Model : Form
+    {
+        public Main main;
+        private string Path;
+        public Model(string path)
+        {
+            InitializeComponent();
+            cogJobManagerEdit1.LoadJobManager(path);
+            lb_Model.Text = PV.stringArray_Model[PV.iModelNum - 1].ToString();
+        }
+
+
+    }
+}

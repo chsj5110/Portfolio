@@ -1,0 +1,16 @@
+C:\Users\chsj5\source\repos\chsj_01\chsj_01\obj\Debug\chsj.csproj.AssemblyReference.cache
+C:\Users\chsj5\source\repos\chsj_01\chsj_01\obj\Debug\chsj_01.Form0Password.resources
+C:\Users\chsj5\source\repos\chsj_01\chsj_01\obj\Debug\chsj_01.Form1Type.resources
+C:\Users\chsj5\source\repos\chsj_01\chsj_01\obj\Debug\chsj_01.Form2Login.resources
+C:\Users\chsj5\source\repos\chsj_01\chsj_01\obj\Debug\chsj_01.Form3Order.resources
+C:\Users\chsj5\source\repos\chsj_01\chsj_01\obj\Debug\chsj_01.Form5TypeSet.resources
+C:\Users\chsj5\source\repos\chsj_01\chsj_01\obj\Debug\chsj_01.Form6LoginSet.resources
+C:\Users\chsj5\source\repos\chsj_01\chsj_01\obj\Debug\chsj_01.Form7OrderSet.resources
+C:\Users\chsj5\source\repos\chsj_01\chsj_01\obj\Debug\chsj_01.Form7_1.resources
+C:\Users\chsj5\source\repos\chsj_01\chsj_01\obj\Debug\chsj_01.Form8LOT.resources
+C:\Users\chsj5\source\repos\chsj_01\chsj_01\obj\Debug\chsj_01.FormWork.resources
+C:\Users\chsj5\source\repos\chsj_01\chsj_01\obj\Debug\chsj_01.FormW_1.resources
+C:\Users\chsj5\source\repos\chsj_01\chsj_01\obj\Debug\chsj_01.Main.resources
+C:\Users\chsj5\source\repos\chsj_01\chsj_01\obj\Debug\chsj_01.Properties.Resources.resources
+C:\Users\chsj5\source\repos\chsj_01\chsj_01\obj\Debug\chsj.csproj.GenerateResource.cache
+C:\Users\chsj5\source\repos\chsj_01\chsj_01\obj\Debug\chsj.csproj.CoreCompileInputs.cache

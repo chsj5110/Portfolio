@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="comment">
+		
+	<!-- 자유 게시판 댓글 등록  -->	
+	<insert id="insertCommentFB" parameterType="hashmap">		
+		INSERT INTO BOARD_COMMENT (
+					C_SEQ,
+					M_ID,
+					C_CONTENT,
+					FB_SEQ,
+					C_CREATEDATE,
+					C_UPADTEDATE,
+					C_DELETECHK
+					)
+				
+			VALUES( 
+					SEQ_BOARD_COMMENT.NEXTVAL, 
+					#{writer},
+					#{content}, 
+					#{fb_seq},
+					#{date}, 
+					#{date},
+					'N'					
+					) 	
+	</insert>
+	
+	<update id="updateCommentCount" parameterType="hashmap">
+		UPDATE FREE_BOARD SET 
+		FB_COMMENT_COUNT = (
+					SELECT COUNT(C_SEQ) AS CNT 
+					FROM BOARD_COMMENT 
+					WHERE FB_SEQ = #{fb_seq} 
+					AND C_DELETECHK = 'N' 
+					)
+		WHERE FB_SEQ=#{fb_seq}
+	</update>
+
+	<!-- 댓글목록 출력 -->
+	<select id="commentListFB" parameterType="hashmap" resultType="hashmap">
+		SELECT * FROM BOARD_COMMENT
+		WHERE FB_SEQ=#{seq} 
+		AND C_DELETECHK='N' 
+		ORDER BY C_SEQ DESC
+	</select>
+	
+	<!-- 댓글 수 조회 -->
+	<select id="countComment" parameterType="hashmap" resultType="integer">
+		SELECT COUNT(C_SEQ) AS CNT 
+		FROM BOARD_COMMENT 
+		WHERE FB_SEQ=#{seq} 
+		AND C_DELETECHK='N' 
+	</select>
+	
+	<!-- 댓글 삭제 -->
+	<delete id="deleteComment" parameterType="hashmap">		
+		UPDATE BOARD_COMMENT SET 
+		C_DELETECHK='Y' 
+		WHERE C_SEQ = #{seq}				
+	</delete>
+	
+	
+	
+	
+	
+	
+	<!-- 리뷰 게시글 댓글 등록  -->	
+	<insert id="insertCommentRB" parameterType="hashmap">		
+		INSERT INTO BOARD_COMMENT (
+					C_SEQ,
+					M_ID,
+					C_CONTENT,
+					RB_SEQ,
+					C_CREATEDATE,
+					C_UPADTEDATE,
+					C_DELETECHK
+					)
+				
+			VALUES( 
+					SEQ_BOARD_COMMENT.NEXTVAL, 
+					#{writer},
+					#{content}, 
+					#{rb_seq}, 
+					#{date}, 
+					#{date},
+					'N'					
+					) 		
+	</insert>
+	
+
+
+	<!-- 댓글목록 출력 -->
+	<select id="commentListRB" parameterType="hashmap" resultType="hashmap">
+		SELECT * FROM BOARD_COMMENT
+		WHERE RB_SEQ=#{seq} 
+		AND C_DELETECHK='N' 
+		ORDER BY C_SEQ DESC
+	</select>
+	
+</mapper>

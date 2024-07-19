@@ -1,0 +1,552 @@
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.exe.config
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.exe
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.pdb
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.InSight.Controls.Display.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Blob.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CalibFix.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Caliper.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Controls.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Core.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.Controls.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.Core.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.IO.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ToolGroup.Controls.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.InSight.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Core.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\stdole.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.FG1394DCAM.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ResultsAnalysis.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Inspection.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Inspection.Controls.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Database.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.InSight.Controls.Display.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Blob.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CalibFix.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Caliper.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Core.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.Core.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.IO.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.InSight.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Core.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.FG1394DCAM.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ResultsAnalysis.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Inspection.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Database.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.csprojResolveAssemblyReference.cache
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.FactoryReset.resources
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Login.resources
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.MainForm.resources
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Properties.Resources.resources
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.csproj.GenerateResource.Cache
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.exe
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.pdb
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.exe.config
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.exe
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.pdb
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Blob.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CalibFix.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Caliper.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Controls.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Core.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CorePlus.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageFile.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.PMAlign.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.Core.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Core.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.FGGigE.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\stdole.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.IO.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Blob.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CalibFix.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Caliper.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Core.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CorePlus.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageFile.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.PMAlign.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.Core.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Core.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.FGGigE.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.IO.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.csprojResolveAssemblyReference.cache
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.MainForm.resources
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Properties.Resources.resources
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.csproj.GenerateResource.Cache
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.exe
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.pdb
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.exe.config
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.exe
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.pdb
+C:\Users\son30\OneDrive\Desktop\고려특수선재 202011\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.exe.config
+C:\Users\son30\OneDrive\Desktop\고려특수선재 202011\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.exe
+C:\Users\son30\OneDrive\Desktop\고려특수선재 202011\IVSSYSTEM1 최종\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.pdb
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.exe.config
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.csprojResolveAssemblyReference.cache
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form1.resources
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form2.resources
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.MainForm.resources
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Properties.Resources.resources
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.csproj.GenerateResource.Cache
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.exe
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.pdb
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Blob.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CalibFix.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Caliper.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Controls.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Core.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.Controls.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.Core.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.IO.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Core.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\stdole.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.FG1394DCAM.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ResultsAnalysis.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Inspection.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Inspection.Controls.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Database.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Blob.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CalibFix.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Caliper.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Core.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.Core.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.IO.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Core.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.FG1394DCAM.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ResultsAnalysis.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Inspection.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Database.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.exe
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.pdb
+C:\Users\chsj5\Desktop\210708 IVSSYSTEM\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.exe.config
+C:\Users\chsj5\Desktop\210708 IVSSYSTEM\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.exe
+C:\Users\chsj5\Desktop\210708 IVSSYSTEM\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.pdb
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.exe.config
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.exe
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.pdb
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.csprojResolveAssemblyReference.cache
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form1.resources
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form2.resources
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.MainForm.resources
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Properties.Resources.resources
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.csproj.GenerateResource.Cache
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.exe
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.pdb
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Blob.dll
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CalibFix.dll
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Caliper.dll
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Controls.dll
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Core.dll
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.dll
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.Controls.dll
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.Core.dll
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.IO.dll
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ToolGroup.Controls.dll
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Core.dll
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.dll
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\stdole.dll
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.FG1394DCAM.dll
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ResultsAnalysis.dll
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Inspection.dll
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Inspection.Controls.dll
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Database.dll
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.xml
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Blob.xml
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CalibFix.xml
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Caliper.xml
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Core.xml
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.Core.xml
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.IO.xml
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Core.xml
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.xml
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.FG1394DCAM.xml
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ResultsAnalysis.xml
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Inspection.xml
+C:\Users\chsj5\Desktop\210708 고려특수선재 SAMPLE\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Database.xml
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.exe.config
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.exe
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.pdb
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.exe
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.pdb
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Blob.dll
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CalibFix.dll
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Caliper.dll
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Controls.dll
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Core.dll
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.dll
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.Controls.dll
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.Core.dll
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.IO.dll
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ToolGroup.Controls.dll
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Core.dll
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.dll
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\stdole.dll
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.FG1394DCAM.dll
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ResultsAnalysis.dll
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Inspection.dll
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Inspection.Controls.dll
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Database.dll
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.xml
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Blob.xml
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CalibFix.xml
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Caliper.xml
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Core.xml
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.Core.xml
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.IO.xml
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Core.xml
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.xml
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.FG1394DCAM.xml
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ResultsAnalysis.xml
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Inspection.xml
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Database.xml
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form1.resources
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form3.resources
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form4.resources
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form2.resources
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form5.resources
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.MainForm.resources
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Properties.Resources.resources
+C:\Users\chsj5\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.exe.config
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.exe
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.pdb
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Blob.dll
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CalibFix.dll
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Caliper.dll
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Controls.dll
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Core.dll
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.dll
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.Controls.dll
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.Core.dll
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.IO.dll
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Core.dll
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.dll
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\stdole.dll
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.FG1394DCAM.dll
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ResultsAnalysis.dll
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Inspection.dll
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Inspection.Controls.dll
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Database.dll
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.xml
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Blob.xml
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CalibFix.xml
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Caliper.xml
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Core.xml
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.Core.xml
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.IO.xml
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Core.xml
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.xml
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.FG1394DCAM.xml
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ResultsAnalysis.xml
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Inspection.xml
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Database.xml
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.exe.config
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form1.resources
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form3.resources
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form4.resources
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form2.resources
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form5.resources
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.MainForm.resources
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Properties.Resources.resources
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.csproj.CopyComplete
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.exe
+C:\Users\Admin\Desktop\210810_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.pdb
+C:\Users\chsj5\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.exe.config
+C:\Users\chsj5\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.exe
+C:\Users\chsj5\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.pdb
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.exe.config
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.exe
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.pdb
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Blob.dll
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CalibFix.dll
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Caliper.dll
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Controls.dll
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Core.dll
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.dll
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.Controls.dll
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.Core.dll
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.IO.dll
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Core.dll
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.dll
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\stdole.dll
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.FG1394DCAM.dll
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ResultsAnalysis.dll
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Inspection.dll
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Inspection.Controls.dll
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Database.dll
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.xml
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Blob.xml
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CalibFix.xml
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Caliper.xml
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Core.xml
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.Core.xml
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.IO.xml
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Core.xml
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.xml
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.FG1394DCAM.xml
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ResultsAnalysis.xml
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Inspection.xml
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Database.xml
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.exe.config
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form1.resources
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form3.resources
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form4.resources
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form2.resources
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form5.resources
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.MainForm.resources
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Properties.Resources.resources
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.csproj.CopyComplete
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.exe
+C:\Users\Admin\Desktop\210923_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.pdb
+C:\Users\chsj5\Desktop\210927_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.exe.config
+C:\Users\chsj5\Desktop\210927_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.exe
+C:\Users\chsj5\Desktop\210927_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.pdb
+C:\Users\son30\OneDrive\Desktop\210928_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.exe.config
+C:\Users\son30\OneDrive\Desktop\210928_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.exe
+C:\Users\son30\OneDrive\Desktop\210928_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.pdb
+C:\Users\son30\OneDrive\Desktop\210928_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.csprojResolveAssemblyReference.cache
+C:\Users\son30\OneDrive\Desktop\210928_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form1.resources
+C:\Users\son30\OneDrive\Desktop\210928_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form3.resources
+C:\Users\son30\OneDrive\Desktop\210928_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form4.resources
+C:\Users\son30\OneDrive\Desktop\210928_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form2.resources
+C:\Users\son30\OneDrive\Desktop\210928_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form5.resources
+C:\Users\son30\OneDrive\Desktop\210928_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.MainForm.resources
+C:\Users\son30\OneDrive\Desktop\210928_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Properties.Resources.resources
+C:\Users\son30\OneDrive\Desktop\210928_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.csproj.GenerateResource.Cache
+C:\Users\chsj5\Desktop\210929_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.exe.config
+C:\Users\chsj5\Desktop\210929_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.exe
+C:\Users\chsj5\Desktop\210929_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.pdb
+C:\Users\chsj5\Desktop\210929_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.csprojResolveAssemblyReference.cache
+C:\Users\chsj5\Desktop\210929_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form1.resources
+C:\Users\chsj5\Desktop\210929_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form3.resources
+C:\Users\chsj5\Desktop\210929_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form4.resources
+C:\Users\chsj5\Desktop\210929_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form2.resources
+C:\Users\chsj5\Desktop\210929_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form5.resources
+C:\Users\chsj5\Desktop\210929_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.MainForm.resources
+C:\Users\chsj5\Desktop\210929_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Properties.Resources.resources
+C:\Users\chsj5\Desktop\210929_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.csproj.GenerateResource.Cache
+C:\Users\chsj5\Desktop\210930_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.exe.config
+C:\Users\chsj5\Desktop\210930_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.exe
+C:\Users\chsj5\Desktop\210930_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.pdb
+S:\210930_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.exe.config
+S:\210930_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.exe
+S:\210930_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.pdb
+S:\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.exe.config
+S:\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.exe
+S:\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.pdb
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.exe.config
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.exe
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.pdb
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Blob.dll
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CalibFix.dll
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Caliper.dll
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Controls.dll
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Core.dll
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.dll
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.Controls.dll
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.Core.dll
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.IO.dll
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Core.dll
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.dll
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\stdole.dll
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.FG1394DCAM.dll
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ResultsAnalysis.dll
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Inspection.dll
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Inspection.Controls.dll
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Database.dll
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.xml
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Blob.xml
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CalibFix.xml
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Caliper.xml
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Core.xml
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.Core.xml
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.QuickBuild.IO.xml
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.Core.xml
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro3D.xml
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.FG1394DCAM.xml
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.ResultsAnalysis.xml
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Inspection.xml
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\Cognex.VisionPro.Database.xml
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.exe.config
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form1.resources
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form3.resources
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form4.resources
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form2.resources
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Form5.resources
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.MainForm.resources
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.Properties.Resources.resources
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.csproj.CopyComplete
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.exe
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.pdb
+C:\Users\Admin\Desktop\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.csproj.AssemblyReference.cache
+S:\20211015_부국산업(아산)\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.exe.config
+S:\20211015_부국산업(아산)\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.exe
+S:\20211015_부국산업(아산)\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.pdb
+E:\20211015_부국산업(아산)\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\bin\x64\Debug\IVSSYSTEM.exe.config
+E:\20211015_부국산업(아산)\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.exe
+E:\20211015_부국산업(아산)\211007_부국산업(아산)-FLIRx4\IVSSYSTEM\obj\x64\Debug\IVSSYSTEM.pdb

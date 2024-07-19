@@ -1,0 +1,12 @@
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\obj\x86\Release\IVSSYSTEM.Form1.resources
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\obj\x86\Release\IVSSYSTEM.Form2.resources
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\obj\x86\Release\IVSSYSTEM.MainForm.resources
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\obj\x86\Release\IVSSYSTEM.Properties.Resources.resources
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\obj\x86\Release\IVSSYSTEM.csproj.GenerateResource.Cache
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\Release\IVSSYSTEM.exe.config
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\obj\x86\Release\IVSSYSTEM.csprojResolveAssemblyReference.cache
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\obj\x86\Release\IVSSYSTEM.Form1.resources
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\obj\x86\Release\IVSSYSTEM.Form2.resources
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\obj\x86\Release\IVSSYSTEM.MainForm.resources
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\obj\x86\Release\IVSSYSTEM.Properties.Resources.resources
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\obj\x86\Release\IVSSYSTEM.csproj.GenerateResource.Cache

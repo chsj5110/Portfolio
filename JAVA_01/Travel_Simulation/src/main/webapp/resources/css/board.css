@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+.list_seq{
+    text-align: left;
+    color:blue;
+    font-size:1em;
+}
+.list_title{
+	text-align: left;	
+	font-size:1em;
+	 text-overflow:ellipsis;
+}
+.list_writer{
+	color:brown;
+	text-align: right;
+	font-size:0.9em;
+}
+.list_date{
+	text-align: right;
+	font-size:0.9em;
+	color:gray;
+}
+.card-body{
+	padding:0;
+}
+#content{
+	padding-top:1em;
+}
+a {
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+}

@@ -1,0 +1,1159 @@
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\BINGGRAE\BINGGRAE\bin\x64\Release\IVSSYSTEM.exe.config
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe.config
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csprojResolveAssemblyReference.cache
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.FactoryReset.resources
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Login.resources
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.MainForm.resources
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Properties.Resources.resources
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.GenerateResource.Cache
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.pdb
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.InSight.Controls.Display.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Controls.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Controls.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.Controls.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.InSight.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Interop.Core.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\stdole.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.Controls.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.dll
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.InSight.Controls.Display.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.InSight.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.xml
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe
+C:\Users\son30\OneDrive\Desktop\20180103_키스트론\Koda Inspection Program 1210_2호기\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.pdb
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe.config
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.pdb
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.InSight.Controls.Display.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Controls.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Controls.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.Controls.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.InSight.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Interop.Core.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\stdole.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.Controls.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.dll
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.InSight.Controls.Display.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.InSight.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.xml
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.MainForm.resources
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Properties.Resources.resources
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.GenerateResource.Cache
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe
+C:\Users\son30\OneDrive\Desktop\201112 KOS\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.pdb
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe.config
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.pdb
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Controls.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Interop.Core.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\stdole.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.dll
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.xml
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.MainForm.resources
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Properties.Resources.resources
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe
+C:\Users\Administrator\Desktop\IVSSYSTEM\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.pdb
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe.config
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.pdb
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Controls.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Interop.Core.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\stdole.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.dll
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.xml
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.MainForm.resources
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Properties.Resources.resources
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.GenerateResource.Cache
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe
+D:\VisionSoftware\IVSSYSTEM1\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.pdb
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe.config
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.pdb
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.dll
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.dll
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.dll
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Controls.dll
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.dll
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.dll
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.dll
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.dll
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.dll
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.dll
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Controls.dll
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.dll
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.dll
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.dll
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Interop.Core.dll
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.dll
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.dll
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.dll
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.dll
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\stdole.dll
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.dll
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.dll
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.dll
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.Controls.dll
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.dll
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.xml
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.xml
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.xml
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.xml
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.xml
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.xml
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.xml
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.xml
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.xml
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.xml
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.xml
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.xml
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.xml
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.xml
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.xml
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.xml
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.xml
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.xml
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.xml
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.xml
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form1.resources
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form2.resources
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.MainForm.resources
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Properties.Resources.resources
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.GenerateResource.Cache
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe
+C:\Users\chsj5\Desktop\IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.pdb
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe.config
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.pdb
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Controls.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Controls.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Interop.Core.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\stdole.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.Controls.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form1.resources
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form2.resources
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.MainForm.resources
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Properties.Resources.resources
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.GenerateResource.Cache
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.pdb
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe.config
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form1.resources
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form2.resources
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.MainForm.resources
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Properties.Resources.resources
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.pdb
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe.config
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.pdb
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Controls.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Controls.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Interop.Core.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\stdole.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.Controls.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.CopyComplete
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe.config
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.pdb
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.dll
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.dll
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.dll
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Controls.dll
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.dll
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.dll
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.dll
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.dll
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.dll
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.dll
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.dll
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Controls.dll
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.dll
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.dll
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.dll
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Newtonsoft.Json.dll
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Interop.Core.dll
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.dll
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.dll
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.dll
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.dll
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.dll
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\stdole.dll
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.dll
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.dll
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.dll
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.Controls.dll
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.dll
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.xml
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.xml
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.xml
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.xml
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.xml
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.xml
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.xml
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.xml
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.xml
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.xml
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.xml
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.xml
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.xml
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.xml
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.xml
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.xml
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.xml
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.xml
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.xml
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.xml
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.xml
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.xml
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe.config
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form1.resources
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form2.resources
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.MainForm.resources
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Properties.Resources.resources
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.GenerateResource.cache
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.CoreCompileInputs.cache
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.CopyComplete
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.pdb
+D:\Vision Program\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe.config
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.pdb
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Controls.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Controls.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Interop.Core.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\stdole.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.Controls.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe.config
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form1.resources
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form2.resources
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.MainForm.resources
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Properties.Resources.resources
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.CopyComplete
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.pdb
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe.config
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.pdb
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Controls.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Controls.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.Controls.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Interop.Core.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\stdole.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.Controls.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.dll
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.xml
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csprojResolveAssemblyReference.cache
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form1.resources
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form2.resources
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.MainForm.resources
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Properties.Resources.resources
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.GenerateResource.Cache
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe
+C:\Users\chsj5\Desktop\부국 IVSSYSTEM - 0901\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.pdb
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe.config
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.pdb
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Controls.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Controls.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Interop.Core.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\stdole.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.Controls.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe.config
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form1.resources
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form2.resources
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.MainForm.resources
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Properties.Resources.resources
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.CopyComplete
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0902\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.pdb
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe.config
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.pdb
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Controls.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Controls.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Interop.Core.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\stdole.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.Controls.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe.config
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form1.resources
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form2.resources
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.MainForm.resources
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Properties.Resources.resources
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.CopyComplete
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.pdb
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe.config
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.pdb
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Controls.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Controls.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Interop.Core.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\stdole.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.Controls.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.dll
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.xml
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe.config
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form1.resources
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form2.resources
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.MainForm.resources
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Properties.Resources.resources
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.CopyComplete
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe
+C:\Users\Administrator\Desktop\부국 IVSSYSTEM - 0903_최종\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\부국 IVSSYSTEM - 복사본\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.pdb
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe.config
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.pdb
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.dll
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.dll
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.dll
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Controls.dll
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.dll
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.dll
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.dll
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.dll
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.dll
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.dll
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.dll
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Controls.dll
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.dll
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.dll
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.dll
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Newtonsoft.Json.dll
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Interop.Core.dll
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.dll
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.dll
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.dll
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.dll
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.dll
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\stdole.dll
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.dll
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.dll
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.dll
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.Controls.dll
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.dll
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.xml
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.xml
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.xml
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.xml
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.xml
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.xml
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.xml
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.xml
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.xml
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.xml
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.xml
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.xml
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.xml
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.xml
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.xml
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.xml
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.xml
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.xml
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.xml
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.xml
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.xml
+E:\211005_부국산업 BIC\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.xml
+E:\211005_부국산업 BIC\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.AssemblyReference.cache
+E:\211005_부국산업 BIC\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe.config
+E:\211005_부국산업 BIC\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form1.resources
+E:\211005_부국산업 BIC\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form2.resources
+E:\211005_부국산업 BIC\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.MainForm.resources
+E:\211005_부국산업 BIC\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Properties.Resources.resources
+E:\211005_부국산업 BIC\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.GenerateResource.cache
+E:\211005_부국산업 BIC\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.CoreCompileInputs.cache
+E:\211005_부국산업 BIC\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.CopyComplete
+E:\211005_부국산업 BIC\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe
+E:\211005_부국산업 BIC\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.pdb
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe.config
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.pdb
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.pdb
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.dll
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.dll
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.dll
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Controls.dll
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.dll
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.dll
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.dll
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.dll
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.dll
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.dll
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Controls.dll
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.dll
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.dll
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.Controls.dll
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.dll
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Interop.Core.dll
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.dll
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.dll
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.dll
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.dll
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\stdole.dll
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.dll
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.dll
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.dll
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.Controls.dll
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.dll
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.xml
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.xml
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.xml
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.xml
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.xml
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.xml
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.xml
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.xml
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.xml
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.xml
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.xml
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.xml
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.xml
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.xml
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.xml
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.xml
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.xml
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.xml
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.xml
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.xml
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form1.resources
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form2.resources
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.MainForm.resources
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Properties.Resources.resources
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.GenerateResource.Cache
+C:\Users\son30\OneDrive\Desktop\211101_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csprojResolveAssemblyReference.cache
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe.config
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.pdb
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.pdb
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.dll
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.dll
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.dll
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Controls.dll
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.dll
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.dll
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.dll
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.dll
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.dll
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.dll
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.dll
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Controls.dll
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.dll
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.dll
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.Controls.dll
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.dll
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Interop.Core.dll
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.dll
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\stdole.dll
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.dll
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.dll
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG8100.dll
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG8100L.dll
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.Controls.dll
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.dll
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.dll
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.xml
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.xml
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.xml
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.xml
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.xml
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.xml
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.xml
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.xml
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.xml
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.xml
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.xml
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.xml
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.xml
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.xml
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.xml
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.xml
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG8100.xml
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG8100L.xml
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.xml
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.xml
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csprojResolveAssemblyReference.cache
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form1.resources
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form2.resources
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form3.resources
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.MainForm.resources
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Properties.Resources.resources
+S:\20211101_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.GenerateResource.Cache
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe.config
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.pdb
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.pdb
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.dll
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.dll
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.dll
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Controls.dll
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.dll
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.dll
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.dll
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.dll
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.dll
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.dll
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.dll
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Controls.dll
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.dll
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.dll
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.Controls.dll
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.dll
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Interop.Core.dll
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.dll
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.dll
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.dll
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.dll
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.dll
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\stdole.dll
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.dll
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.dll
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.dll
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.Controls.dll
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.dll
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.xml
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.xml
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.xml
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.xml
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.xml
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.xml
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.xml
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.xml
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.xml
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.xml
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.xml
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.xml
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.xml
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.xml
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.xml
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.xml
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.xml
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.xml
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.xml
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.xml
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.xml
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.xml
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csprojResolveAssemblyReference.cache
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form1.resources
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form2.resources
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form3.resources
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.MainForm.resources
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Properties.Resources.resources
+E:\20211101_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.GenerateResource.Cache
+S:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe.config
+S:\20211117_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe
+S:\20211117_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.pdb
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe.config
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.pdb
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.dll
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.dll
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.dll
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Controls.dll
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.dll
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.dll
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.dll
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.dll
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.dll
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.dll
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Controls.dll
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.dll
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.dll
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.Controls.dll
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.dll
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Interop.Core.dll
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.dll
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.dll
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.dll
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.dll
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\stdole.dll
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.dll
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.dll
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.dll
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.Controls.dll
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.dll
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.xml
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.xml
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.xml
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.xml
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.xml
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.xml
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.xml
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.xml
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.xml
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.xml
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.xml
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.xml
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.xml
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.xml
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.xml
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.xml
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.xml
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.xml
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.xml
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.xml
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form1.resources
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form2.resources
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form3.resources
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.MainForm.resources
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Properties.Resources.resources
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.CopyComplete
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe
+C:\Users\Administrator\Desktop\20211117_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.pdb
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe.config
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.exe
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\IVSSYSTEM.pdb
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.dll
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.dll
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.dll
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Controls.dll
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.dll
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.dll
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.dll
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.dll
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.dll
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.dll
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.dll
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Controls.dll
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.dll
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.dll
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.Controls.dll
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.dll
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Interop.Core.dll
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.dll
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.dll
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.dll
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.dll
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.dll
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\stdole.dll
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.dll
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.dll
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.dll
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.Controls.dll
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.dll
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.xml
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Blob.xml
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CalibFix.xml
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Caliper.xml
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Core.xml
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.CorePlus.xml
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Display.Controls.xml
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageFile.xml
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ImageProcessing.xml
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.PMAlign.xml
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.Core.xml
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.QuickBuild.IO.xml
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ToolGroup.xml
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Display.Controls.xml
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Graphic.xml
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.Core.xml
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FGGigE.xml
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro3D.xml
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.FG1394DCAM.xml
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.ResultsAnalysis.xml
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Inspection.xml
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\bin\x64\Release\Cognex.VisionPro.Database.xml
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.AssemblyReference.cache
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form1.resources
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form2.resources
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Form3.resources
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.MainForm.resources
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.Properties.Resources.resources
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.GenerateResource.cache
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.CoreCompileInputs.cache
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.csproj.CopyComplete
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.exe
+E:\20211117_부국산업 BIC 울주\IVSSYSTEM\obj\x64\Release\IVSSYSTEM.pdb

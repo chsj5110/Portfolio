@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="qbSQL">
+		
+	<!-- 검색기준에 따른 조건 설정 -->
+	<sql id="searchCondition">
+		<if test="searchType != null">
+			<if test="searchType == 't'.toString()">
+				and QB_TITLE like '%' || #{keyword} || '%'
+			</if>
+			<if test="searchType == 'c'.toString()">
+				and QB_CONTENT like '%' || #{keyword} || '%'
+			</if>
+			<if test="searchType == 'w'.toString()">
+				and M_ID like '%' || #{keyword} || '%'
+			</if>
+			<if test="searchType == 'tc'.toString()">
+				and (QB_TITLE like '%' || #{keyword} || '%'
+					or QB_CONTENT like '%' || #{keyword} || '%')
+			</if>
+			<if test="searchType == 'all'.toString()">
+				and (QB_TITLE like '%' || #{keyword} || '%'
+					or QB_CONTENT like '%' || #{keyword} || '%'
+					or M_ID like '%' || #{keyword} || '%')
+			</if>
+		</if>
+	</sql>
+	
+	
+	<!-- Q&A 등록  -->	
+	<insert id="qbInsert" parameterType="hashmap">		
+		INSERT INTO QNA_BOARD (
+					QB_SEQ,
+					QB_TITLE,
+					M_ID,
+					QB_CONTENT,
+					QB_CREATEDATE,
+					QB_UPADATEDATE,
+					QB_OPENCHK
+					)				
+			VALUES( 
+					SEQ_QNA_BOARD.NEXTVAL, 
+					#{title}, 
+					#{writer}, 
+					#{content}, 
+					#{date}, 
+					#{date},
+					#{openChk}							
+					) 		
+	</insert>
+		
+	<!-- Q&A 수정  -->	
+	<update id="qbUpdate" parameterType="hashmap">		
+		UPDATE QNA_BOARD SET 
+					QB_TITLE = #{title}, 
+					QB_CONTENT = #{content}, 
+					QB_UPADATEDATE = #{date},
+					QB_OPENCHK = #{openChk} 
+				WHERE QB_SEQ = #{seq}							
+	</update>
+	
+	<!-- Q&A 삭제  -->	
+	<update id="qbDelete" parameterType="hashmap">		
+		UPDATE QNA_BOARD SET 
+					QB_DELETECHK = 'Y' 
+				WHERE QB_SEQ = #{seq}							
+	</update>
+
+	<!-- 총 게시글 갯수 출력 -->
+	<select id="countQB" resultType="int">
+		SELECT COUNT(*) FROM QNA_BOARD 
+			WHERE QB_DELETECHK = 'N' 
+			<include refid="searchCondition"></include>
+	</select>
+	
+	
+	<!-- 페이징 처리 후 게시글 목록 조회 -->
+	<select id="selectQB" resultType="HashMap">
+		SELECT * 
+			FROM (
+				SELECT ROWNUM RN, A.* 
+					FROM (
+							SELECT * 
+							FROM QNA_BOARD 
+							WHERE QB_DELETECHK = 'N' 
+							<include refid="searchCondition"></include>
+							ORDER BY QB_SEQ DESC 
+							) A
+					)
+		WHERE RN BETWEEN #{start} AND #{end}
+	</select>
+
+	
+	<!-- Q&A 조회 -->
+	<select id="qbRead" parameterType="hashmap" resultType="hashmap">		
+			SELECT 		
+				QB_SEQ,
+				QB_TITLE,
+				M_ID,
+				QB_CONTENT,
+				QB_CREATEDATE,
+				QB_UPADATEDATE,
+				QB_OPENCHK 						
+			FROM QNA_BOARD 
+			WHERE QB_DELETECHK = 'N'
+			AND QB_SEQ = #{seq}					   
+	</select>
+	
+	
+	<!-- Q&A 답변 등록  -->	
+	<update id="qbAnswerInsert" parameterType="hashmap">		
+		UPDATE QNA_BOARD SET 
+					QB_ANSWER = #{content}, 
+					QB_ANSWER_DATE = #{date}	
+			WHERE QB_SEQ=#{seq}
+	</update>
+	
+	<!-- Q&A 답변 조회 -->
+	<select id="qbAnswerShow" parameterType="hashmap" resultType="hashmap">		
+			SELECT 		
+				QB_ANSWER, 
+				QB_ANSWER_DATE 							
+			FROM QNA_BOARD 
+			WHERE QB_SEQ = #{seq}					   
+	</select>
+	
+		<!-- Q&A 답변 삭제  -->	
+	<update id="qbAnswerDelete" parameterType="hashmap">		
+		UPDATE QNA_BOARD SET 
+					QB_ANSWER = null, 
+					QB_ANSWER_DATE = null	
+			WHERE QB_SEQ=#{seq}
+	</update>
+	
+	
+
+</mapper>
