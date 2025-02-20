@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\DatabaseApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D16BC9A8-BB2A-4429-B971-F3B6B5C1E46C}|DatabaseApp\\DatabaseApp.csproj|d:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\databaseapp\\databaseapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D16BC9A8-BB2A-4429-B971-F3B6B5C1E46C}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D16BC9A8-BB2A-4429-B971-F3B6B5C1E46C}|DatabaseApp\\DatabaseApp.csproj|d:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\databaseapp\\databaseapp\\components\\pages\\todos_api.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D16BC9A8-BB2A-4429-B971-F3B6B5C1E46C}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\components\\pages\\todos_api.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D16BC9A8-BB2A-4429-B971-F3B6B5C1E46C}|DatabaseApp\\DatabaseApp.csproj|d:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\databaseapp\\databaseapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D16BC9A8-BB2A-4429-B971-F3B6B5C1E46C}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D16BC9A8-BB2A-4429-B971-F3B6B5C1E46C}|DatabaseApp\\DatabaseApp.csproj|d:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\databaseapp\\databaseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D16BC9A8-BB2A-4429-B971-F3B6B5C1E46C}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16BC9A8-BB2A-4429-B971-F3B6B5C1E46C}|DatabaseApp\\DatabaseApp.csproj|d:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\databaseapp\\databaseapp\\controller\\todoapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16BC9A8-BB2A-4429-B971-F3B6B5C1E46C}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\controller\\todoapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16BC9A8-BB2A-4429-B971-F3B6B5C1E46C}|DatabaseApp\\DatabaseApp.csproj|d:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\databaseapp\\databaseapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D16BC9A8-BB2A-4429-B971-F3B6B5C1E46C}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,52 +30,55 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "D:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\DatabaseApp\\DatabaseApp\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "DatabaseApp\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "D:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\DatabaseApp\\DatabaseApp\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "DatabaseApp\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAABgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T17:38:19.973Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Todos_api.razor",
-              "DocumentMoniker": "D:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\DatabaseApp\\DatabaseApp\\Components\\Pages\\Todos_api.razor",
-              "RelativeDocumentMoniker": "DatabaseApp\\Components\\Pages\\Todos_api.razor",
-              "ToolTip": "D:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\DatabaseApp\\DatabaseApp\\Components\\Pages\\Todos_api.razor",
-              "RelativeToolTip": "DatabaseApp\\Components\\Pages\\Todos_api.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABRAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T16:57:57.076Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Home.razor",
-              "DocumentMoniker": "D:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\DatabaseApp\\DatabaseApp\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "DatabaseApp\\Components\\Pages\\Home.razor",
-              "ToolTip": "D:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\DatabaseApp\\DatabaseApp\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "DatabaseApp\\Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T16:41:51.14Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\DatabaseApp\\DatabaseApp\\Program.cs",
               "RelativeDocumentMoniker": "DatabaseApp\\Program.cs",
               "ToolTip": "D:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\DatabaseApp\\DatabaseApp\\Program.cs",
               "RelativeToolTip": "DatabaseApp\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAABIwBoAAAADAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T16:27:15.308Z"
+              "WhenOpened": "2025-02-20T19:07:39.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoApiController.cs",
+              "DocumentMoniker": "D:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\DatabaseApp\\DatabaseApp\\Controller\\TodoApiController.cs",
+              "RelativeDocumentMoniker": "DatabaseApp\\Controller\\TodoApiController.cs",
+              "ToolTip": "D:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\DatabaseApp\\DatabaseApp\\Controller\\TodoApiController.cs",
+              "RelativeToolTip": "DatabaseApp\\Controller\\TodoApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:03:56.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Todos_api.razor",
+              "DocumentMoniker": "D:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\DatabaseApp\\DatabaseApp\\Components\\Pages\\Todos_api.razor",
+              "RelativeDocumentMoniker": "DatabaseApp\\Components\\Pages\\Todos_api.razor",
+              "ToolTip": "D:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\DatabaseApp\\DatabaseApp\\Components\\Pages\\Todos_api.razor",
+              "RelativeToolTip": "DatabaseApp\\Components\\Pages\\Todos_api.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T16:57:57.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\DatabaseApp\\DatabaseApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "DatabaseApp\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\DatabaseApp\\DatabaseApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "DatabaseApp\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T16:41:51.14Z",
+              "EditorCaption": ""
             }
           ]
         }

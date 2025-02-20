@@ -34,7 +34,8 @@ new MySqlServerVersion(new Version(8, 0, 36)))); // MySQL 버전에 맞게 설정
 
 builder.Services.AddHttpClient("API", client =>
 {
-    client.BaseAddress = new Uri("https://localhost:7084/"); // 포트번호 맞춰서!
+    //client.BaseAddress = new Uri("https://localhost:7084/"); // 로컬 테스트
+	client.BaseAddress = new Uri("https://4.217.255.124/"); // vm server
 	client.DefaultRequestHeaders.Add("Accept", "application/json");
 });
 

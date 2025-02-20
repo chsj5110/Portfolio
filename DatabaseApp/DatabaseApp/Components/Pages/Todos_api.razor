@@ -78,8 +78,8 @@ else
 	[Parameter] public string Username { get; set; }  // URL에서 Username을 받아옴
 	private List<TodoModel>? TodoList;
 	private string ApiUrl => string.IsNullOrEmpty(Username)
-		? "https://localhost:7084/api/todos"  // 전체 Todo 리스트
-		: $"https://localhost:7084/api/todos/users/{Uri.EscapeDataString(Username)}";  // 특정 사용자 Todo 리스트
+		? "https://4.217.255.124/api/todos"  // 전체 Todo 리스트
+		: $"https://4.217.255.124/api/todos/users/{Uri.EscapeDataString(Username)}";  // 특정 사용자 Todo 리스트
 
 
 	private int? EditingItemId;
@@ -88,6 +88,7 @@ else
 	private string InputName = string.Empty;
 	private string InputDescription = string.Empty;
 	private DateTime InputTargetDate = DateTime.Now.Date;
+
 
 	protected override async Task OnInitializedAsync()
 	{
@@ -113,6 +114,7 @@ else
 			};
 		await client.PostAsJsonAsync("api/todos", newTodo);
 		await LoadTodoList();
+
 		InputName = string.Empty;
 		InputDescription = string.Empty;
 		InputTargetDate = DateTime.Now.Date;
@@ -169,6 +171,6 @@ else
 	// 사용자 Todo 리스트로 이동하는 메서드
 	private void NavigateToUserTodos(string username)
 	{
-		NavigationManager.NavigateTo($"/todos/{username}");
+		NavigationManager.NavigateTo($"/todos_api/{username}");
 	}
 }
