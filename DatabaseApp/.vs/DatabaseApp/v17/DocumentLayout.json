@@ -38,8 +38,7 @@
               "RelativeToolTip": "DatabaseApp\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAABgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T17:38:19.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T17:38:19.973Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "DatabaseApp\\Components\\Pages\\Todos_api.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T16:57:57.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T16:57:57.076Z"
             },
             {
               "$type": "Document",
@@ -62,7 +60,7 @@
               "RelativeDocumentMoniker": "DatabaseApp\\Components\\Pages\\Home.razor",
               "ToolTip": "D:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\DatabaseApp\\DatabaseApp\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "DatabaseApp\\Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-20T16:41:51.14Z",
               "EditorCaption": ""
@@ -77,8 +75,7 @@
               "RelativeToolTip": "DatabaseApp\\Program.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAABIwBoAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T16:27:15.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T16:27:15.308Z"
             }
           ]
         }
