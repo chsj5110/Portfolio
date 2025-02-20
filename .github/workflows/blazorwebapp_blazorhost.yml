@@ -28,16 +28,18 @@ jobs:
       - name: Build with dotnet
         run: dotnet publish DatabaseApp/DatabaseApp/DatabaseApp.csproj -c Release -o ./publish
       
-
-      - name: dotnet publish
+        
+        - name: dotnet publish
         run: dotnet publish DatabaseApp/DatabaseApp/DatabaseApp.csproj -c Release -o ./publish
-
-      - name: Upload artifact for deployment job
+        
+        - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
         with:
           name: .net-app
           path: ./publish
-
+          
+        - name: List files in publish directory
+          run: dir ./publish  # 파일 목록 확인
   deploy:
     runs-on: windows-latest
     needs: build
