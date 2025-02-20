@@ -57,4 +57,4 @@ jobs:
           app-name: 'blazorhost'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0CA6596E237144D5A5C5B15550FB46CE }}
-          package: ./net-app
+          package: ./publish
