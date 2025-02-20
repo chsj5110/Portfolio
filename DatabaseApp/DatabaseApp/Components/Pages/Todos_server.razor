@@ -1,0 +1,202 @@
+﻿@page "/todos_server"
+@using DatabaseApp.Data;
+@using DatabaseApp.Models;
+@using System.Globalization;
+@using Microsoft.EntityFrameworkCore;
+@using Pomelo.EntityFrameworkCore.MySql;
+@inject IDbContextFactory<ApplicationDbContext> factory;
+@rendermode InteractiveServer
+
+<PageTitle>서버 사이드 Blazor CRUD 애플리케이션: TodoList</PageTitle>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th scope="col">#</th>
+			<th scope="col">User</th>
+			<th scope="col">Description</th>
+			<th scope="col">Target Date</th>
+			<th scope="col">IsDone</th>
+			<th scope="col">Actions</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in TodoList)
+		{
+			@if (EditingItemId == item.Id)
+			{
+				<tr>
+					<td>@item.Id</td>
+					<td>@item.Username</td>
+					<td>
+						<input type="text" @bind="@EditingModel.Description" />
+					</td>
+					<td>
+						<input type="date" @bind-value="@EditingModel.TargetDate" @bind-value:event="oninput" />
+					</td>
+					<td>
+						<input type="checkbox" @bind="@EditingModel.IsDone" />
+					</td>
+					<td>
+						<button class="btn btn-success" @onclick="SaveEdit">저장</button>
+						<button class="btn btn-danger" @onclick="CancelEdit">취소</button>
+					</td>
+				</tr>
+			}
+			else
+			{
+				<tr>
+					<td>@item.Id</td>
+					<td>@item.Username</td>
+					<td>@item.Description</td>
+					<td>@item.TargetDate.ToString("yyyy-MM-dd", CultureInfo.InvariantCulture)</td>
+					<td>
+						<input type="checkbox"
+							   checked="@item.IsDone"
+							   @onchange="async (e) => await UpdateIsDoneAsync(item.Id, ((ChangeEventArgs)e).Value is not null && (bool)((ChangeEventArgs)e).Value)" />
+					</td>
+
+					<td>
+						<button class="btn btn-primary" @onclick="() => StartEdit(item)">수정</button>
+						<button class="btn btn-danger" @onclick="() => RemoveItem(item)">삭제</button>
+					</td>
+				</tr>
+			}
+		}
+	</tbody>
+</table>
+
+<div>
+	<input type="text" @bind="InputName" placeholder="사용자 이름" />
+	<input type="text" @bind="InputDescription" placeholder="할 일" />
+	<input type="date" @bind="InputTargetDate" placeholder="완료 날짜" />
+	<button type="button" class="btn btn-primary" @onclick="CreateAsync">추가</button>
+</div>
+
+@code {
+	List<TodoModel> TodoList = new List<TodoModel>();
+
+
+	private int InputId { get; set; }
+	private string InputName { get; set; } = string.Empty;
+	private string InputDescription { get; set; } = string.Empty;
+	private DateTime InputTargetDate { get; set; } = DateTime.Now.Date; // 오늘 날짜 설정
+	private int? EditingItemId { get; set; }
+	private TodoModel EditingModel { get; set; } = new TodoModel();
+
+	private void StartEdit(TodoModel item)
+	{
+		EditingItemId = item.Id;
+		EditingModel = new TodoModel
+			{
+				Id = item.Id,
+				Username = item.Username,
+				Description = item.Description,
+				IsDone = item.IsDone,
+				TargetDate = item.TargetDate
+			};
+	}
+	
+	private async Task SaveEdit()
+	{
+		if (EditingItemId == null) return;
+
+		// UpdateAsync 함수 호출해서 수정사항 DB에 반영
+		await UpdateAsync(EditingModel.Id, EditingModel.Username, EditingModel.Description, EditingModel.TargetDate);
+
+		// TodoList 새로 불러오기
+		TodoList = await LoadTodoList();
+
+		// 수정 종료 후 Editing 상태 초기화
+		EditingItemId = null;
+	}
+
+	private void CancelEdit()
+	{
+		EditingItemId = null;
+	}
+
+
+	protected override Task OnInitializedAsync()
+	{
+		using (var context = factory.CreateDbContext())
+		{
+			TodoList = context.GetTodoModels.ToList();
+		}
+		return base.OnInitializedAsync();
+	}
+	
+	public async Task CreateAsync()
+	{
+		using (var context = factory.CreateDbContext())
+		{
+			context.GetTodoModels.Add(new TodoModel { Username = InputName, Description = InputDescription, TargetDate = InputTargetDate, IsDone = false });
+			await context.SaveChangesAsync();
+			TodoList = await context.GetTodoModels.ToListAsync();
+		}
+
+		InputName = string.Empty;
+		InputDescription = string.Empty;
+		InputTargetDate = DateTime.Now.Date;
+	}
+
+	private async Task UpdateAsync(int id, string name, string description, DateTime targetDate)
+	{
+		using (var context = factory.CreateDbContext())
+		{
+			var update = await context.GetTodoModels.SingleOrDefaultAsync(e => e.Id == id);
+			if (update != null)
+			{
+				update.Username = name;
+				update.Description = description;
+				update.TargetDate = targetDate;
+				await context.SaveChangesAsync();
+			}
+		}
+	}
+
+	private async Task<List<TodoModel>> LoadTodoList()
+	{
+		using (var context = factory.CreateDbContext())
+		{
+			return await context.GetTodoModels.ToListAsync();
+		}
+	}
+
+	private async Task RemoveItem(TodoModel item)
+	{
+		await RemoveAsync(item.Id);
+
+		// TodoList 새로 불러오기
+		TodoList = await LoadTodoList();
+	}
+
+	private async Task RemoveAsync(int id)
+	{
+		using (var context = factory.CreateDbContext())
+		{
+			var del = await context.GetTodoModels.SingleOrDefaultAsync(e => e.Id == id);
+			if (del is not null)
+			{
+				context.GetTodoModels.Remove(del);
+				await context.SaveChangesAsync();
+			}
+		}
+	}
+
+	public async Task UpdateIsDoneAsync(int id, bool isDone)
+	{
+		using (var context = factory.CreateDbContext())
+		{
+			var todo = await context.GetTodoModels.SingleOrDefaultAsync(e => e.Id == id);
+			if (todo is not null)
+			{
+				todo.IsDone = isDone;
+				await context.SaveChangesAsync();
+			}
+			// 변경된 데이터 다시 불러오기 (옵션)
+			TodoList = await context.GetTodoModels.ToListAsync();
+		}
+	}
+
+}

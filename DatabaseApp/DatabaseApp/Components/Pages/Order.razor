@@ -1,0 +1,106 @@
+﻿@page "/order"
+@using DatabaseApp.Data;
+@using DatabaseApp.Models;
+@using Microsoft.EntityFrameworkCore;
+@using Pomelo.EntityFrameworkCore.MySql;
+@inject IDbContextFactory<ApplicationDbContext> factory;
+@rendermode InteractiveServer
+
+<PageTitle>Home</PageTitle>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th scope="col">#</th>
+			<th scope="col">제품명</th>
+			<th scope="col">제품 가격</th>
+			<th scope="col">제품 카테고리</th>
+			<th scope="col">제품 구매시간</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Orderlist)
+		{
+			<tr>
+				<td>@item.Id</td>
+				<td>@item.Name</td>
+				<td>@item.Price</td>
+				<td>@item.Category</td>
+				<td>@item.OrderDate</td>
+			</tr>
+		}
+	</tbody>
+</table>
+
+
+<div>
+	<input type="text" @bind="InputId" name="textboxId"/>
+	<input type="text" @bind="InputName" placeholder="제품명" />
+	<input type="text" @bind="InputPrice" placeholder="가격" />
+	<input type="text" @bind="InputCategory" placeholder="카테고리" />
+</div>
+
+<div>
+	<button type="button" class="btn btn-primary" @onclick="CreateAsync">추가</button>
+	<button type="button" class="btn btn-success" @onclick="UpdateAsync">수정</button>
+	<button type="button" class="btn btn-danger" @onclick="RemoveAsync">삭제</button>
+</div>
+
+@code {
+	List<OrderModel> Orderlist = new List<OrderModel>();
+
+
+	private int InputId { get; set; }
+	private string InputName { get; set; } = string.Empty;
+	private string InputPrice { get; set; } = string.Empty;
+	private string InputCategory { get; set; } = string.Empty;
+
+	protected override Task OnInitializedAsync()
+	{
+		using (var context = factory.CreateDbContext())
+		{
+			Orderlist = context.GetOrderModels.ToList();
+		}
+		return base.OnInitializedAsync();
+	}
+
+	public async Task CreateAsync()
+	{
+		using (var context = factory.CreateDbContext())
+		{
+			context.GetOrderModels.Add(new OrderModel { Name = InputName, Price = InputPrice, Category = InputCategory, OrderDate = DateTime.Now });
+			await context.SaveChangesAsync();
+			Orderlist = context.GetOrderModels.ToList();
+		}
+	}
+
+	public async Task UpdateAsync()
+	{
+		using (var context = factory.CreateDbContext())
+		{
+			var update = await context.GetOrderModels.SingleOrDefaultAsync(e => e.Id == InputId);
+			if (update is not null)
+			{
+				update.Name = InputName;
+				update.Price = InputPrice;
+				update.Category = InputCategory;
+			}
+			await context.SaveChangesAsync();
+			Orderlist = context.GetOrderModels.ToList();
+		}
+	}
+
+	public async Task RemoveAsync()
+	{
+		using (var context = factory.CreateDbContext())
+		{
+			var del = await context.GetOrderModels.SingleOrDefaultAsync(e => e.Id == InputId);
+			if (del is not null)
+			{
+				context.GetOrderModels.Remove(del);
+			}
+			await context.SaveChangesAsync();
+			Orderlist = context.GetOrderModels.ToList();
+		}
+	}
+}
