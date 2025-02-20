@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VHcM6Ec2ymOdYYCzHS3+UfK+GLZvuXgfYr3+pALfWeU=",
+  "Hash": "0289Yf14zjBYtuCguKgLYWfRqa3cOTKVb0mWlWSJPdw=",
   "Source": "DatabaseApp",
   "BasePath": "_content/DatabaseApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "DatabaseApp\\wwwroot",
       "Source": "DatabaseApp",
-      "ContentRoot": "C:\\Users\\chsj5\\source\\repos\\DatabaseApp\\DatabaseApp\\wwwroot\\",
+      "ContentRoot": "D:\\개인프로젝트\\DatabaseApp\\DatabaseApp\\wwwroot\\",
       "BasePath": "_content/DatabaseApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\chsj5\\source\\repos\\DatabaseApp\\DatabaseApp\\obj\\Release\\net8.0\\win-x64\\scopedcss\\bundle\\DatabaseApp.styles.css",
+      "Identity": "D:\\개인프로젝트\\DatabaseApp\\DatabaseApp\\obj\\Release\\net8.0\\win-x64\\scopedcss\\bundle\\DatabaseApp.styles.css",
       "SourceId": "DatabaseApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\chsj5\\source\\repos\\DatabaseApp\\DatabaseApp\\obj\\Release\\net8.0\\win-x64\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\개인프로젝트\\DatabaseApp\\DatabaseApp\\obj\\Release\\net8.0\\win-x64\\scopedcss\\bundle\\",
       "BasePath": "_content/DatabaseApp",
       "RelativePath": "DatabaseApp.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\chsj5\\source\\repos\\DatabaseApp\\DatabaseApp\\obj\\Release\\net8.0\\win-x64\\scopedcss\\bundle\\DatabaseApp.styles.css"
+      "OriginalItemSpec": "D:\\개인프로젝트\\DatabaseApp\\DatabaseApp\\obj\\Release\\net8.0\\win-x64\\scopedcss\\bundle\\DatabaseApp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\chsj5\\source\\repos\\DatabaseApp\\DatabaseApp\\obj\\Release\\net8.0\\win-x64\\scopedcss\\projectbundle\\DatabaseApp.bundle.scp.css",
+      "Identity": "D:\\개인프로젝트\\DatabaseApp\\DatabaseApp\\obj\\Release\\net8.0\\win-x64\\scopedcss\\projectbundle\\DatabaseApp.bundle.scp.css",
       "SourceId": "DatabaseApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\chsj5\\source\\repos\\DatabaseApp\\DatabaseApp\\obj\\Release\\net8.0\\win-x64\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\개인프로젝트\\DatabaseApp\\DatabaseApp\\obj\\Release\\net8.0\\win-x64\\scopedcss\\projectbundle\\",
       "BasePath": "_content/DatabaseApp",
       "RelativePath": "DatabaseApp.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\chsj5\\source\\repos\\DatabaseApp\\DatabaseApp\\obj\\Release\\net8.0\\win-x64\\scopedcss\\projectbundle\\DatabaseApp.bundle.scp.css"
+      "OriginalItemSpec": "D:\\개인프로젝트\\DatabaseApp\\DatabaseApp\\obj\\Release\\net8.0\\win-x64\\scopedcss\\projectbundle\\DatabaseApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\chsj5\\source\\repos\\DatabaseApp\\DatabaseApp\\wwwroot\\app.css",
+      "Identity": "D:\\개인프로젝트\\DatabaseApp\\DatabaseApp\\wwwroot\\app.css",
       "SourceId": "DatabaseApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chsj5\\source\\repos\\DatabaseApp\\DatabaseApp\\wwwroot\\",
+      "ContentRoot": "D:\\개인프로젝트\\DatabaseApp\\DatabaseApp\\wwwroot\\",
       "BasePath": "_content/DatabaseApp",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\chsj5\\source\\repos\\DatabaseApp\\DatabaseApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\개인프로젝트\\DatabaseApp\\DatabaseApp\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "DatabaseApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chsj5\\source\\repos\\DatabaseApp\\DatabaseApp\\wwwroot\\",
+      "ContentRoot": "D:\\개인프로젝트\\DatabaseApp\\DatabaseApp\\wwwroot\\",
       "BasePath": "_content/DatabaseApp",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\chsj5\\source\\repos\\DatabaseApp\\DatabaseApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\개인프로젝트\\DatabaseApp\\DatabaseApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "DatabaseApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chsj5\\source\\repos\\DatabaseApp\\DatabaseApp\\wwwroot\\",
+      "ContentRoot": "D:\\개인프로젝트\\DatabaseApp\\DatabaseApp\\wwwroot\\",
       "BasePath": "_content/DatabaseApp",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\chsj5\\source\\repos\\DatabaseApp\\DatabaseApp\\wwwroot\\favicon.png",
+      "Identity": "D:\\개인프로젝트\\DatabaseApp\\DatabaseApp\\wwwroot\\favicon.png",
       "SourceId": "DatabaseApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chsj5\\source\\repos\\DatabaseApp\\DatabaseApp\\wwwroot\\",
+      "ContentRoot": "D:\\개인프로젝트\\DatabaseApp\\DatabaseApp\\wwwroot\\",
       "BasePath": "_content/DatabaseApp",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

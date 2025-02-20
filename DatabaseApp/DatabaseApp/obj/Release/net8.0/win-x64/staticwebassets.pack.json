@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\chsj5\\source\\repos\\DatabaseApp\\DatabaseApp\\obj\\Release\\net8.0\\win-x64\\scopedcss\\projectbundle\\DatabaseApp.bundle.scp.css",
+      "Id": "D:\\개인프로젝트\\DatabaseApp\\DatabaseApp\\obj\\Release\\net8.0\\win-x64\\scopedcss\\projectbundle\\DatabaseApp.bundle.scp.css",
       "PackagePath": "staticwebassets\\DatabaseApp.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\chsj5\\source\\repos\\DatabaseApp\\DatabaseApp\\wwwroot\\app.css",
+      "Id": "D:\\개인프로젝트\\DatabaseApp\\DatabaseApp\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\chsj5\\source\\repos\\DatabaseApp\\DatabaseApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "D:\\개인프로젝트\\DatabaseApp\\DatabaseApp\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\chsj5\\source\\repos\\DatabaseApp\\DatabaseApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "D:\\개인프로젝트\\DatabaseApp\\DatabaseApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\chsj5\\source\\repos\\DatabaseApp\\DatabaseApp\\wwwroot\\favicon.png",
+      "Id": "D:\\개인프로젝트\\DatabaseApp\\DatabaseApp\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {

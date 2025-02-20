@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chsj5\\source\\repos\\DatabaseApp\\DatabaseApp\\DatabaseApp.csproj": {}
+    "D:\\개인프로젝트\\DatabaseApp\\DatabaseApp\\DatabaseApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chsj5\\source\\repos\\DatabaseApp\\DatabaseApp\\DatabaseApp.csproj": {
+    "D:\\개인프로젝트\\DatabaseApp\\DatabaseApp\\DatabaseApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chsj5\\source\\repos\\DatabaseApp\\DatabaseApp\\DatabaseApp.csproj",
+        "projectUniqueName": "D:\\개인프로젝트\\DatabaseApp\\DatabaseApp\\DatabaseApp.csproj",
         "projectName": "DatabaseApp",
-        "projectPath": "C:\\Users\\chsj5\\source\\repos\\DatabaseApp\\DatabaseApp\\DatabaseApp.csproj",
+        "projectPath": "D:\\개인프로젝트\\DatabaseApp\\DatabaseApp\\DatabaseApp.csproj",
         "packagesPath": "C:\\Users\\chsj5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chsj5\\source\\repos\\DatabaseApp\\DatabaseApp\\obj\\publish\\win-x64\\",
+        "outputPath": "D:\\개인프로젝트\\DatabaseApp\\DatabaseApp\\obj\\publish\\win-x64\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chsj5\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Git-Windows-Minimal": {
+              "target": "Package",
+              "version": "[2.48.1, )"
+            },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.7, )"

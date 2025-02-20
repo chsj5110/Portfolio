@@ -78,8 +78,8 @@ else
 	[Parameter] public string Username { get; set; }  // URL에서 Username을 받아옴
 	private List<TodoModel>? TodoList;
 	private string ApiUrl => string.IsNullOrEmpty(Username)
-		? "https://4.217.255.124/api/todos"  // 전체 Todo 리스트
-		: $"https://4.217.255.124/api/todos/users/{Uri.EscapeDataString(Username)}";  // 특정 사용자 Todo 리스트
+		? "://4.217.255.124/api/todos"  // 전체 Todo 리스트
+		: $"://4.217.255.124/api/todos/users/{Uri.EscapeDataString(Username)}";  // 특정 사용자 Todo 리스트
 
 
 	private int? EditingItemId;
