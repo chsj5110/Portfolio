@@ -21,9 +21,13 @@ jobs:
         with:
           dotnet-version: '8.x'
           include-prerelease: true
-
+          
+      - name: Restore dependencies
+        run: dotnet restore DatabaseApp/DatabaseApp/DatabaseApp.csproj
+      
       - name: Build with dotnet
         run: dotnet publish DatabaseApp/DatabaseApp/DatabaseApp.csproj -c Release -o ./publish
+      
 
       - name: dotnet publish
         run: dotnet publish -c Release -o ${{env.DOTNET_ROOT}}/myapp
