@@ -291,3 +291,12 @@ D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\refint\
 D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\DatabaseApp.pdb
 D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\DatabaseApp.genruntimeconfig.cache
 D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\ref\DatabaseApp.dll
+D:\개인프로젝트\DatabaseApp\DatabaseApp\bin\Release\net8.0\win-x64\Microsoft.ApplicationInsights.dll
+D:\개인프로젝트\DatabaseApp\DatabaseApp\bin\Release\net8.0\win-x64\Microsoft.ApplicationInsights.AspNetCore.dll
+D:\개인프로젝트\DatabaseApp\DatabaseApp\bin\Release\net8.0\win-x64\Microsoft.AI.DependencyCollector.dll
+D:\개인프로젝트\DatabaseApp\DatabaseApp\bin\Release\net8.0\win-x64\Microsoft.AI.EventCounterCollector.dll
+D:\개인프로젝트\DatabaseApp\DatabaseApp\bin\Release\net8.0\win-x64\Microsoft.AI.PerfCounterCollector.dll
+D:\개인프로젝트\DatabaseApp\DatabaseApp\bin\Release\net8.0\win-x64\Microsoft.AI.WindowsServer.dll
+D:\개인프로젝트\DatabaseApp\DatabaseApp\bin\Release\net8.0\win-x64\Microsoft.AI.ServerTelemetryChannel.dll
+D:\개인프로젝트\DatabaseApp\DatabaseApp\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.ApplicationInsights.dll
+D:\개인프로젝트\DatabaseApp\DatabaseApp\bin\Release\net8.0\win-x64\System.Diagnostics.PerformanceCounter.dll

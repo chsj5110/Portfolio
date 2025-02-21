@@ -1,4 +1,4 @@
-using DatabaseApp.Components;
+﻿using DatabaseApp.Components;
 using DatabaseApp.Components.Account;
 using DatabaseApp.Data;
 using Microsoft.AspNetCore.Components.Authorization;
@@ -6,6 +6,9 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Pomelo.EntityFrameworkCore.MySql;
 using System.Configuration;
+using Microsoft.ApplicationInsights.AspNetCore;
+using Microsoft.Extensions.DependencyInjection;
+
 
 
 
@@ -30,26 +33,31 @@ builder.Services.AddAuthentication(options =>
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
 builder.Services.AddDbContextFactory<ApplicationDbContext>(options =>
 options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"),
-new MySqlServerVersion(new Version(8, 0, 36)))); // MySQL ������ �°� ����
+new MySqlServerVersion(new Version(8, 0, 36)))); // MySQL 버전에 맞게 설정
 
 builder.Services.AddHttpClient("API", client =>
 {
-    //client.BaseAddress = new Uri("https://localhost:7084/"); // ���� �׽�Ʈ
-	client.BaseAddress = new Uri("https://4.217.255.124/"); // vm server
+	client.BaseAddress = new Uri("https://4.217.255.124/api/");
 	client.DefaultRequestHeaders.Add("Accept", "application/json");
+}).ConfigurePrimaryHttpMessageHandler(() =>
+{
+	return new HttpClientHandler
+	{
+		ServerCertificateCustomValidationCallback = (message, cert, chain, errors) => true
+	};
 });
+
 
 builder.Services.AddControllers(); // 
 
 builder.Services.AddCors(options =>
 {
 	options.AddPolicy("AllowAll", builder =>
-		builder.AllowAnyOrigin()
-			   .AllowAnyMethod()
-			   .AllowAnyHeader());
+		builder.WithOrigins("https://4.217.255.124") // 명확하게 서버 도메인 지정
+			   .AllowAnyMethod() // DELETE, PUT 등 모든 메서드 허용
+			   .AllowAnyHeader()
+			   .AllowCredentials()); // 인증 정보 포함 허용
 });
-
-builder.Services.AddCors(options => options.AddDefaultPolicy(builder => builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader()));
 
 
 
@@ -60,18 +68,27 @@ builder.Services.AddIdentityCore<ApplicationUser>(options => options.SignIn.Requ
 	.AddSignInManager()
 	.AddDefaultTokenProviders();
 
+
 builder.Services.AddSingleton<IEmailSender<ApplicationUser>, IdentityNoOpEmailSender>();
 
+builder.Services.AddApplicationInsightsTelemetry(builder.Configuration["ApplicationInsights:InstrumentationKey"]);
 
 var app = builder.Build();
+app.UseRouting(); 
 
+app.UseCors("AllowAll");
 
-app.MapControllers(); // 
+app.UseAuthentication(); 
+app.UseAuthorization();
+
+app.MapControllers(); 
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
 	app.UseMigrationsEndPoint();
+
 }
 else
 {
@@ -84,6 +101,7 @@ app.UseHttpsRedirection();
 
 app.UseStaticFiles();
 app.UseAntiforgery();
+
 
 app.MapRazorComponents<App>()
 	.AddInteractiveServerRenderMode();

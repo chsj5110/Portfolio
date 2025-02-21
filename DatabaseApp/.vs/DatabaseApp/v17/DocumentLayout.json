@@ -3,7 +3,16 @@
   "WorkspaceRootPath": "D:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\DatabaseApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\.github\\workflows\\blazorwebapp_blazorhost.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{D16BC9A8-BB2A-4429-B971-F3B6B5C1E46C}|DatabaseApp\\DatabaseApp.csproj|d:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\databaseapp\\databaseapp\\components\\pages\\todos_api.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D16BC9A8-BB2A-4429-B971-F3B6B5C1E46C}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\components\\pages\\todos_api.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16BC9A8-BB2A-4429-B971-F3B6B5C1E46C}|DatabaseApp\\DatabaseApp.csproj|d:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\databaseapp\\databaseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16BC9A8-BB2A-4429-B971-F3B6B5C1E46C}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16BC9A8-BB2A-4429-B971-F3B6B5C1E46C}|DatabaseApp\\DatabaseApp.csproj|d:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\databaseapp\\databaseapp\\controller\\todoapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16BC9A8-BB2A-4429-B971-F3B6B5C1E46C}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\controller\\todoapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,24 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "blazorwebapp_blazorhost.yml",
-              "DocumentMoniker": "D:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\.github\\workflows\\blazorwebapp_blazorhost.yml",
-              "RelativeDocumentMoniker": "..\\.github\\workflows\\blazorwebapp_blazorhost.yml",
-              "ToolTip": "D:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\.github\\workflows\\blazorwebapp_blazorhost.yml",
-              "RelativeToolTip": "..\\.github\\workflows\\blazorwebapp_blazorhost.yml",
+              "DocumentIndex": 2,
+              "Title": "TodoApiController.cs",
+              "DocumentMoniker": "D:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\DatabaseApp\\DatabaseApp\\Controller\\TodoApiController.cs",
+              "RelativeDocumentMoniker": "DatabaseApp\\Controller\\TodoApiController.cs",
+              "ToolTip": "D:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\DatabaseApp\\DatabaseApp\\Controller\\TodoApiController.cs",
+              "RelativeToolTip": "DatabaseApp\\Controller\\TodoApiController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-02-20T20:04:32.209Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:14:12.402Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\DatabaseApp\\DatabaseApp\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseApp\\Program.cs",
+              "ToolTip": "D:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\DatabaseApp\\DatabaseApp\\Program.cs",
+              "RelativeToolTip": "DatabaseApp\\Program.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAYwHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T06:44:06.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Todos_api.razor",
+              "DocumentMoniker": "D:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\DatabaseApp\\DatabaseApp\\Components\\Pages\\Todos_api.razor",
+              "RelativeDocumentMoniker": "DatabaseApp\\Components\\Pages\\Todos_api.razor",
+              "ToolTip": "D:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\DatabaseApp\\DatabaseApp\\Components\\Pages\\Todos_api.razor",
+              "RelativeToolTip": "DatabaseApp\\Components\\Pages\\Todos_api.razor",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAYwJkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T23:20:37.014Z",
+              "EditorCaption": ""
             }
           ]
         }

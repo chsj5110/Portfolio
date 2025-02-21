@@ -70,16 +70,17 @@ else
 <div>
 	<input type="text" @bind="InputName" placeholder="사용자 이름" name="inputName" />
 	<input type="text" @bind="InputDescription" placeholder="할 일" name="inputDescription" />
-	<input type="date" @bind="InputTargetDate" name="inputTargetDate"/>
+	<input type="date" @bind="InputTargetDate" name="inputTargetDate" />
 	<button type="button" class="btn btn-primary" @onclick="CreateAsync">추가</button>
 </div>
 
 @code {
-	[Parameter] public string Username { get; set; }  // URL에서 Username을 받아옴
+	[Parameter] public string Username { get; set; }
 	private List<TodoModel>? TodoList;
 	private string ApiUrl => string.IsNullOrEmpty(Username)
-		? "://4.217.255.124/api/todos"  // 전체 Todo 리스트
-		: $"://4.217.255.124/api/todos/users/{Uri.EscapeDataString(Username)}";  // 특정 사용자 Todo 리스트
+		? "https://4.217.255.124/api/todos"  // 전체 Todo 리스트
+		: $"https://4.217.255.124/api/todos/users/{Uri.EscapeDataString(Username)}";  // 특정 사용자 Todo 리스트
+		
 
 
 	private int? EditingItemId;
@@ -112,7 +113,7 @@ else
 				TargetDate = InputTargetDate,
 				IsDone = false
 			};
-		await client.PostAsJsonAsync("api/todos", newTodo);
+		await client.PostAsJsonAsync(ApiUrl, newTodo);
 		await LoadTodoList();
 
 		InputName = string.Empty;
@@ -138,7 +139,7 @@ else
 		if (EditingItemId == null) return;
 
 		var client = HttpClientFactory.CreateClient("API");
-		await client.PutAsJsonAsync($"api/todos/{EditingModel.Id}", EditingModel);
+		await client.PutAsJsonAsync($"https://4.217.255.124/api/todos/{EditingModel.Id}", EditingModel);
 		await LoadTodoList();
 
 		EditingItemId = null;
@@ -152,7 +153,7 @@ else
 	private async Task RemoveItem(TodoModel item)
 	{
 		var client = HttpClientFactory.CreateClient("API");
-		await client.DeleteAsync($"api/todos/{item.Id}");
+		await client.DeleteAsync($"https://4.217.255.124/api/todos/{item.Id}");
 		await LoadTodoList();
 	}
 
@@ -163,7 +164,7 @@ else
 		if (todo != null)
 		{
 			todo.IsDone = isDone;
-			await client.PutAsJsonAsync($"api/todos/{id}", todo);
+			await client.PutAsJsonAsync($"https://4.217.255.124/api/todos/{id}", todo);
 			await LoadTodoList();
 		}
 	}

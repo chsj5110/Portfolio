@@ -13,6 +13,13 @@ D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\PubTmp\
 D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\PubTmp\Out\K4os.Compression.LZ4.dll
 D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\PubTmp\Out\K4os.Compression.LZ4.Streams.dll
 D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\PubTmp\Out\K4os.Hash.xxHash.dll
+D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.ApplicationInsights.dll
+D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.ApplicationInsights.AspNetCore.dll
+D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.AI.DependencyCollector.dll
+D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.AI.EventCounterCollector.dll
+D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.AI.PerfCounterCollector.dll
+D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.AI.WindowsServer.dll
+D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.AI.ServerTelemetryChannel.dll
 D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Cryptography.Internal.dll
 D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
@@ -31,6 +38,7 @@ D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\PubTmp\
 D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.Extensions.DependencyModel.dll
 D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.Extensions.Identity.Core.dll
 D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.Extensions.Identity.Stores.dll
+D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.Extensions.Logging.ApplicationInsights.dll
 D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.Extensions.Options.dll
 D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.Identity.Client.dll
 D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.Identity.Client.Extensions.Msal.dll
@@ -52,6 +60,7 @@ D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\PubTmp\
 D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\PubTmp\Out\System.Composition.Runtime.dll
 D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\PubTmp\Out\System.Composition.TypedParts.dll
 D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\PubTmp\Out\System.Diagnostics.PerformanceCounter.dll
 D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
 D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\PubTmp\Out\System.IO.Pipelines.dll
 D:\개인프로젝트\DatabaseApp\DatabaseApp\obj\Release\net8.0\win-x64\PubTmp\Out\System.Memory.Data.dll
