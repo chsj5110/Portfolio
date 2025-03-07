@@ -9,10 +9,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D16BC9A8-BB2A-4429-B971-F3B6B5C1E46C}|DatabaseApp\\DatabaseApp.csproj|d:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\databaseapp\\databaseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D16BC9A8-BB2A-4429-B971-F3B6B5C1E46C}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D16BC9A8-BB2A-4429-B971-F3B6B5C1E46C}|DatabaseApp\\DatabaseApp.csproj|d:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\databaseapp\\databaseapp\\controller\\todoapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D16BC9A8-BB2A-4429-B971-F3B6B5C1E46C}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\controller\\todoapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TodoApiController.cs",
-              "DocumentMoniker": "D:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\DatabaseApp\\DatabaseApp\\Controller\\TodoApiController.cs",
-              "RelativeDocumentMoniker": "DatabaseApp\\Controller\\TodoApiController.cs",
-              "ToolTip": "D:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\DatabaseApp\\DatabaseApp\\Controller\\TodoApiController.cs",
-              "RelativeToolTip": "DatabaseApp\\Controller\\TodoApiController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T08:14:12.402Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -45,7 +28,7 @@
               "RelativeDocumentMoniker": "DatabaseApp\\Program.cs",
               "ToolTip": "D:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\DatabaseApp\\DatabaseApp\\Program.cs",
               "RelativeToolTip": "DatabaseApp\\Program.cs",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAYwHAAAAAAAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAADgAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T06:44:06.903Z",
               "EditorCaption": ""
@@ -58,7 +41,7 @@
               "RelativeDocumentMoniker": "DatabaseApp\\Components\\Pages\\Todos_api.razor",
               "ToolTip": "D:\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\DatabaseApp\\DatabaseApp\\Components\\Pages\\Todos_api.razor",
               "RelativeToolTip": "DatabaseApp\\Components\\Pages\\Todos_api.razor",
-              "ViewState": "AQIAAI4AAAAAAAAAAAAYwJkAAAACAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAFAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-20T23:20:37.014Z",
               "EditorCaption": ""

@@ -1,82 +1,127 @@
 ﻿using DatabaseApp.Data;
 using DatabaseApp.Models;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
+using MySql.Data.MySqlClient;
+using System.Data;
 
 namespace TodoApp.Controllers
 {
-    [ApiController]
-    [Route("api/[controller]")]
-    public class TodosController : ControllerBase
-    {
-        private readonly ApplicationDbContext _context;
+	[ApiController]
+	[Route("api/[controller]")]
+	public class TodosController : ControllerBase
+	{
+		private readonly IConfiguration _config;
 
-        public TodosController(ApplicationDbContext context)
-        {
-            _context = context;
-        }
+		public TodosController(IConfiguration config)
+		{
+			_config = config;
+		}
 
-        // 모든 Todo List 반환
-        [HttpGet]
-        public async Task<ActionResult<List<TodoModel>>> GetTodos()
-        {
-            var todos = await _context.GetTodoModels.ToListAsync();
+		[HttpGet]
+		public async Task<ActionResult<List<TodoModel>>> GetTodos()
+		{
+			var todos = new List<TodoModel>();
+			using (MySqlConnection conn = new MySqlConnection(_config.GetConnectionString("DefaultConnection")))
+			{
+				MySqlCommand cmd = new MySqlCommand("GetTodos", conn);
+				cmd.CommandType = System.Data.CommandType.StoredProcedure;
+				await conn.OpenAsync();
+				using (var reader = await cmd.ExecuteReaderAsync())
+				{
+					while (await reader.ReadAsync())
+					{
+						todos.Add(new TodoModel
+						{
+							Id = reader.GetInt32("Id"),
+							Username = reader.GetString("Username"),
+							Description = reader.GetString("Description"),
+							IsDone = reader.GetBoolean("IsDone"),
+							TargetDate = reader.GetDateTime("TargetDate")
+						});
+					}
+				}
+			}
+			return Ok(todos);
+		}
 
-            if (todos == null || !todos.Any())
-            {
-                return NotFound("No todos found");
-            }
+		[HttpGet("users/{username}")]
+		public async Task<ActionResult<List<TodoModel>>> GetTodosByUsername(string username)
+		{
+			var todos = new List<TodoModel>();
+			using (MySqlConnection conn = new MySqlConnection(_config.GetConnectionString("DefaultConnection")))
+			{
+				MySqlCommand cmd = new MySqlCommand("GetTodosByUsername", conn);
+				cmd.CommandType = System.Data.CommandType.StoredProcedure;
+				cmd.Parameters.AddWithValue("@username_param", username);
+				await conn.OpenAsync();
+				using (var reader = await cmd.ExecuteReaderAsync())
+				{
+					while (await reader.ReadAsync())
+					{
+						todos.Add(new TodoModel
+						{
+							Id = reader.GetInt32("Id"),
+							Username = reader.GetString("Username"),
+							Description = reader.GetString("Description"),
+							IsDone = reader.GetBoolean("IsDone"),
+							TargetDate = reader.GetDateTime("TargetDate")
+						});
+					}
+				}
+			}
+			return Ok(todos);
+		}
 
-            return Ok(todos);
-        }
+		[HttpPost]
+		public async Task<ActionResult<TodoModel>> CreateTodo(TodoModel todo)
+		{
+			using (MySqlConnection conn = new MySqlConnection(_config.GetConnectionString("DefaultConnection")))
+			{
+				MySqlCommand cmd = new MySqlCommand("CreateTodo", conn);
+				cmd.CommandType = System.Data.CommandType.StoredProcedure;
+				cmd.Parameters.AddWithValue("@username_param", todo.Username);
+				cmd.Parameters.AddWithValue("@description_param", todo.Description);
+				cmd.Parameters.AddWithValue("@isdone_param", todo.IsDone);
+				cmd.Parameters.AddWithValue("@targetdate_param", todo.TargetDate);
 
-        // 특정 사용자에 맞는 Todo List 반환
-        [HttpGet("users/{username}")]
-        public async Task<ActionResult<List<TodoModel>>> GetTodosByUsername(string username)
-        {
-            var todos = await _context.GetTodoModels
-                                       .Where(todo => todo.Username == username)
-                                       .ToListAsync();
+				await conn.OpenAsync();
+				await cmd.ExecuteNonQueryAsync();
+			}
+			return CreatedAtAction(nameof(GetTodos), new { id = todo.Id }, todo);
+		}
 
-            if (todos == null || !todos.Any())
-            {
-                return NotFound($"No todos found for user {username}");
-            }
+		[HttpPut("{id}")]
+		public async Task<IActionResult> UpdateTodo(int id, TodoModel todo)
+		{
+			using (MySqlConnection conn = new MySqlConnection(_config.GetConnectionString("DefaultConnection")))
+			{
+				MySqlCommand cmd = new MySqlCommand("UpdateTodo", conn);
+				cmd.CommandType = System.Data.CommandType.StoredProcedure;
+				cmd.Parameters.AddWithValue("@id_param", id);
+				cmd.Parameters.AddWithValue("@username_param", todo.Username);
+				cmd.Parameters.AddWithValue("@description_param", todo.Description);
+				cmd.Parameters.AddWithValue("@isdone_param", todo.IsDone);
+				cmd.Parameters.AddWithValue("@targetdate_param", todo.TargetDate);
 
-            return Ok(todos);
-        }
+				await conn.OpenAsync();
+				await cmd.ExecuteNonQueryAsync();
+			}
+			return NoContent();
+		}
 
-        [HttpPost]
-        public async Task<ActionResult<TodoModel>> CreateTodo(TodoModel todo)
-        {
-            _context.GetTodoModels.Add(todo);
-            await _context.SaveChangesAsync();
-            return CreatedAtAction(nameof(GetTodos), new { id = todo.Id }, todo);
-        }
+		[HttpDelete("{id}")]
+		public async Task<IActionResult> DeleteTodo(int id)
+		{
+			using (MySqlConnection conn = new MySqlConnection(_config.GetConnectionString("DefaultConnection")))
+			{
+				MySqlCommand cmd = new MySqlCommand("DeleteTodo", conn);
+				cmd.CommandType = System.Data.CommandType.StoredProcedure;
+				cmd.Parameters.AddWithValue("@id_param", id);
 
-        [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateTodo(int id, TodoModel todo)
-        {
-            if (id != todo.Id) return BadRequest();
-
-            _context.Entry(todo).State = EntityState.Modified;
-            await _context.SaveChangesAsync();
-
-            return NoContent();
-        }
-
-        [HttpDelete("{id}")]
-        public async Task<IActionResult> DeleteTodo(int id)
-        {
-            var todo = await _context.GetTodoModels.FindAsync(id);
-            if (todo == null) return NotFound();
-
-            _context.GetTodoModels.Remove(todo);
-            await _context.SaveChangesAsync();
-
-            return NoContent();
-        }
-    }
-
-
+				await conn.OpenAsync();
+				await cmd.ExecuteNonQueryAsync();
+			}
+			return NoContent();
+		}
+	}
 }

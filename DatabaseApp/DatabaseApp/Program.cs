@@ -38,6 +38,7 @@ new MySqlServerVersion(new Version(8, 0, 36)))); // MySQL 버전에 맞게 설�
 builder.Services.AddHttpClient("API", client =>
 {
 	client.BaseAddress = new Uri("https://4.217.255.124/api/");
+	//client.BaseAddress = new Uri("https://localhost:7084/api/");
 	client.DefaultRequestHeaders.Add("Accept", "application/json");
 }).ConfigurePrimaryHttpMessageHandler(() =>
 {
@@ -54,6 +55,7 @@ builder.Services.AddCors(options =>
 {
 	options.AddPolicy("AllowAll", builder =>
 		builder.WithOrigins("https://4.217.255.124") // 명확하게 서버 도메인 지정
+		//builder.WithOrigins("https://localhost:7084") // 명확하게 서버 도메인 지정
 			   .AllowAnyMethod() // DELETE, PUT 등 모든 메서드 허용
 			   .AllowAnyHeader()
 			   .AllowCredentials()); // 인증 정보 포함 허용

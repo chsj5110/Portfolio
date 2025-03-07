@@ -80,7 +80,8 @@ else
 	private string ApiUrl => string.IsNullOrEmpty(Username)
 		? "https://4.217.255.124/api/todos"  // 전체 Todo 리스트
 		: $"https://4.217.255.124/api/todos/users/{Uri.EscapeDataString(Username)}";  // 특정 사용자 Todo 리스트
-		
+	//? "https://localhost:7084/api/todos"  // 전체 Todo 리스트
+	//	: $"https://localhost:7084/api/todos/users/{Uri.EscapeDataString(Username)}";  // 특정 사용자 Todo 리스트
 
 
 	private int? EditingItemId;
@@ -97,11 +98,33 @@ else
 		await LoadTodoList();
 	}
 
+	//private async Task LoadTodoList()
+	//{
+	//	var client = HttpClientFactory.CreateClient("API");
+	//	TodoList = await client.GetFromJsonAsync<List<TodoModel>>(ApiUrl);
+	//}
+
 	private async Task LoadTodoList()
 	{
-		var client = HttpClientFactory.CreateClient("API");
-		TodoList = await client.GetFromJsonAsync<List<TodoModel>>(ApiUrl);
+		try
+		{
+			var client = HttpClientFactory.CreateClient("API");
+			var response = await client.GetAsync(ApiUrl);
+			response.EnsureSuccessStatusCode(); // 상태 코드가 2xx가 아니면 예외가 발생
+			TodoList = await response.Content.ReadFromJsonAsync<List<TodoModel>>();
+		}
+		catch (HttpRequestException ex)
+		{
+			// 오류 정보 출력
+			Console.WriteLine($"요청 오류: {ex.Message}");
+		}
+		catch (Exception ex)
+		{
+			// 다른 예외 처리
+			Console.WriteLine($"예상치 못한 오류: {ex.Message}");
+		}
 	}
+
 
 	private async Task CreateAsync()
 	{
@@ -140,6 +163,7 @@ else
 
 		var client = HttpClientFactory.CreateClient("API");
 		await client.PutAsJsonAsync($"https://4.217.255.124/api/todos/{EditingModel.Id}", EditingModel);
+		//await client.PutAsJsonAsync($"https://localhost:a/api/todos/{EditingModel.Id}", EditingModel);
 		await LoadTodoList();
 
 		EditingItemId = null;
@@ -154,6 +178,7 @@ else
 	{
 		var client = HttpClientFactory.CreateClient("API");
 		await client.DeleteAsync($"https://4.217.255.124/api/todos/{item.Id}");
+		//await client.DeleteAsync($"https://localhost:7084/api/todos/{item.Id}");
 		await LoadTodoList();
 	}
 
@@ -165,6 +190,7 @@ else
 		{
 			todo.IsDone = isDone;
 			await client.PutAsJsonAsync($"https://4.217.255.124/api/todos/{id}", todo);
+			//await client.PutAsJsonAsync($"https://localhost:7084/api/todos/{id}", todo);
 			await LoadTodoList();
 		}
 	}
