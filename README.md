@@ -60,9 +60,13 @@ GitHub을 이용한 CI/CD를 처리하고 이해하였습니다.
 6. 프로젝트를 통해 얻은 것
 
 ✅ C#을 활용한 웹 개발 역량 강화
+
 ✅ Blazor 프레임워크의 기본적인 사용법 및 웹 애플리케이션 구조 이해
+
 ✅ MySQL 및 Stored Procedure 활용 경험
+
 ✅ Azure를 이용한 클라우드 배포 경험
+
 ✅ GitHub을 이용한 CI/CD 경험
 
 
