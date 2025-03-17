@@ -1,0 +1,7 @@
+C:\Users\chsj5\OneDrive\바탕 화면\SVN\UDP_Server_Middleware\UDP_Server_Middleware\bin\Debug\UDP_Server_Middleware.exe.config
+C:\Users\chsj5\OneDrive\바탕 화면\SVN\UDP_Server_Middleware\UDP_Server_Middleware\bin\Debug\UDP_Server_Middleware.exe
+C:\Users\chsj5\OneDrive\바탕 화면\SVN\UDP_Server_Middleware\UDP_Server_Middleware\bin\Debug\UDP_Server_Middleware.pdb
+C:\Users\chsj5\OneDrive\바탕 화면\SVN\UDP_Server_Middleware\UDP_Server_Middleware\obj\Debug\UDP_Server_Middleware.csproj.AssemblyReference.cache
+C:\Users\chsj5\OneDrive\바탕 화면\SVN\UDP_Server_Middleware\UDP_Server_Middleware\obj\Debug\UDP_Server_Middleware.csproj.CoreCompileInputs.cache
+C:\Users\chsj5\OneDrive\바탕 화면\SVN\UDP_Server_Middleware\UDP_Server_Middleware\obj\Debug\UDP_Server_Middleware.exe
+C:\Users\chsj5\OneDrive\바탕 화면\SVN\UDP_Server_Middleware\UDP_Server_Middleware\obj\Debug\UDP_Server_Middleware.pdb

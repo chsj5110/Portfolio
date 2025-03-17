@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chsj5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SVN\\UDP_Server_Middleware\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C83072-5CA9-4BE3-94DD-D16974A1B78D}|UDP_Server_Middleware\\UDP_Server_Middleware.csproj|c:\\users\\chsj5\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\svn\\udp_server_middleware\\udp_server_middleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C83072-5CA9-4BE3-94DD-D16974A1B78D}|UDP_Server_Middleware\\UDP_Server_Middleware.csproj|solutionrelative:udp_server_middleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C83072-5CA9-4BE3-94DD-D16974A1B78D}|UDP_Server_Middleware\\UDP_Server_Middleware.csproj|C:\\Users\\chsj5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SVN\\UDP_Server_Middleware\\udp_server_middleware\\dbconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C83072-5CA9-4BE3-94DD-D16974A1B78D}|UDP_Server_Middleware\\UDP_Server_Middleware.csproj|solutionrelative:udp_server_middleware\\dbconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 158,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBConnector.cs",
+              "DocumentMoniker": "C:\\Users\\chsj5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SVN\\UDP_Server_Middleware\\UDP_Server_Middleware\\DBConnector.cs",
+              "RelativeDocumentMoniker": "UDP_Server_Middleware\\DBConnector.cs",
+              "ToolTip": "C:\\Users\\chsj5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SVN\\UDP_Server_Middleware\\UDP_Server_Middleware\\DBConnector.cs",
+              "RelativeToolTip": "UDP_Server_Middleware\\DBConnector.cs",
+              "ViewState": "AgIAAPMDAAAAAAAAAAAgwFoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T01:48:20.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chsj5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SVN\\UDP_Server_Middleware\\UDP_Server_Middleware\\Program.cs",
+              "RelativeDocumentMoniker": "UDP_Server_Middleware\\Program.cs",
+              "ToolTip": "C:\\Users\\chsj5\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SVN\\UDP_Server_Middleware\\UDP_Server_Middleware\\Program.cs",
+              "RelativeToolTip": "UDP_Server_Middleware\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwDQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T01:16:47.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
